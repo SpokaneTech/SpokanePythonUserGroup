@@ -1,0 +1,71 @@
+# Getting Started with FastAPI
+
+## Tools
+- [Python](https://www.python.org/) (currently using version: 3.9.3)
+- [Virtualenv](https://virtualenv.pypa.io/en/latest/) (shipped with Python as of 3.3)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [FastAPI](https://fastapi.tiangolo.com/)
+    - [Pydantic](https://pydantic-docs.helpmanual.io/)
+    - [Starlette](https://www.starlette.io/)
+- [Docker](https://www.docker.com/)
+
+## Outline
+- Intro
+- On questions
+- Definitions
+	- WSGI
+	- ASGI
+- FastAPI - What the heck is it?
+    - decorators
+    - `async/await`
+    - Pydantic
+    - Starlette
+- FastAPI vs. ?
+- Example 1 - Hello World
+    - decorators
+- Example 2 - Models
+    - Swagger / OpenAPi
+- Example 3 - Validating
+    - Pydantic validators
+    - unit testing
+- First real sample - Car database
+	- ...
+- Authentication (?)
+- Docker (?)
+- Messaging app - Sockets (?)
+
+## Installation
+```powershell
+git clone https://github.com/IntelliTect-Samples/SpokanePythonUserGroup.git
+cd .\SpokanePythonUserGroup\2021.05.18-FastAPI\
+pip install -r requirements.txt
+```
+
+## Example 1 - Hello World
+```powershell
+uvicorn example1:app --reload
+```
+
+## Example 2 - Models
+```powershell
+uvicorn example2:app --reload
+```
+- [Swagger UI](http://127.0.0.1:8000/docs)
+- [Redoc](http://127.0.0.1:8000/redoc)
+
+## Example 3 - Validating
+```powershell
+uvicorn example3.main:app --reload
+```
+
+## Example - Docker
+```powershell
+cd ./example-docker
+docker-compose up
+```
+
+## Example - Docker --reload
+```powershell
+cd ./example-docker-reload
+docker-compose up
+```
