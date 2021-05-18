@@ -97,19 +97,9 @@ docker-compose build
 docker-compose up
 ```
 
-## Example - Security
+## Example - Security (OAuth)
 ```powershell
 uvicorn example-security.main:app --reload
-```
-
-## Example - Security - token
-```powershell
-uvicorn example-security-token.main:app --reload
-```
-
-## Example - Security - username + password
-```powershell
-uvicorn example-security-password.main:app --reload
 ```
 
 ## Example - Upload File

@@ -4,6 +4,6 @@ from fastapi import FastAPI
 app = FastAPI()
 
 
-@app.get('/')
+@app.get('/docker/')
 def hello_docker():
     return 'Hello Docker! 🐋'
