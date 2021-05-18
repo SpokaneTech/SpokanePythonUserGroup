@@ -9,31 +9,6 @@
     - [Starlette](https://www.starlette.io/)
 - [Docker](https://www.docker.com/)
 
-## Outline
-- Intro
-- On questions
-- Definitions
-	- WSGI
-	- ASGI
-- FastAPI - What the heck is it?
-    - decorators
-    - `async/await`
-    - Pydantic
-    - Starlette
-- FastAPI vs. ?
-- Example 1 - Hello World
-    - decorators
-- Example 2 - Models
-    - Swagger / OpenAPi
-- Example 3 - Validating
-    - Pydantic validators
-    - unit testing
-- First real sample - Car database
-	- ...
-- Authentication (?)
-- Docker (?)
-- Messaging app - Sockets (?)
-
 ## Installation
 ```powershell
 git clone https://github.com/IntelliTect-Samples/SpokanePythonUserGroup.git
