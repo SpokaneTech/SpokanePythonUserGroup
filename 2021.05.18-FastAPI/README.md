@@ -58,16 +58,16 @@ docker-compose build
 docker-compose up
 ```
 
-## Example - Docker DIY
+## Example - Docker --reload
 ```powershell
-cd ./example-docker-diy
+cd ./example-docker-reload
 docker-compose build
 docker-compose up
 ```
 
-## Example - Docker --reload
+## Example - Docker DIY
 ```powershell
-cd ./example-docker-reload
+cd ./example-docker-diy
 docker-compose build
 docker-compose up
 ```
