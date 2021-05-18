@@ -1,5 +1,0 @@
-fastapi
-pytest
-python-multipart
-requests
-uvicorn[standard]
