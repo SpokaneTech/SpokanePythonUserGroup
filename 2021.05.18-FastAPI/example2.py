@@ -28,7 +28,7 @@ montero_sport = Vehicle(
 vehicles.append(montero_sport)
 
 
-@app.get('/vehicless/', response_model=list[Vehicle])
+@app.get('/vehicles/', response_model=list[Vehicle])
 def list_vehicles():
     return vehicles
 
@@ -39,7 +39,7 @@ def get_vehicle(vehicle_id: int):
     try:
         vehicle = vehicles[vehicle_index]
     except IndexError:
-        return HTTPException(404, 'Can\'t find a vehicle with that ID!')
+        raise HTTPException(404, 'Can\'t find a vehicle with that ID!')
     else:
         return vehicle
 

@@ -42,3 +42,4 @@ def create_vehicle(data: CreateVehicle):
         **data.dict(),
     )
     vehicles.append(vehicle)
+    return vehicle_id
