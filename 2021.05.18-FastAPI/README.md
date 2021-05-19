@@ -12,7 +12,9 @@
 ## Installation
 ```powershell
 git clone https://github.com/IntelliTect-Samples/SpokanePythonUserGroup.git
-cd .\SpokanePythonUserGroup\2021.05.18-FastAPI\
+cd ./SpokanePythonUserGroup/2021.05.18-FastAPI/
+python -m virtualenv ./.venv
+./.venv/Scripts/Activate.ps1
 pip install -r requirements.txt
 ```
 
@@ -87,7 +89,9 @@ uvicorn example-security-token.main:app --reload
 uvicorn example-security-password.main:app --reload
 ```
 
-## Example - Upload File
+## Example - Cars
 ```powershell
-uvicorn example-upload.main:app --reload
+cd ./example-cars
+docker-compose build
+docker-compose up
 ```
