@@ -4,7 +4,7 @@ A repository to host code examples from the Spokane Python User Group.
 
 ---
 
-## [6/15/21 - Typing for Fun and Profit]()
+## [6/15/21 - Typing for Fun and Profit](https://www.meetup.com/Python-Spokane/events/278681498/)
 
 ### Code Samples
 
