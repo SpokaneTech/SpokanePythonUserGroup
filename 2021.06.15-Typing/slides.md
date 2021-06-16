@@ -16,7 +16,6 @@ marp: true
 - Strong or weak
 - But what is duck typing?
 - `typing` in Python
-- Migrating to `typing`
 
 ---
 
