@@ -2,6 +2,19 @@
 
 A repository to host code examples from the Spokane Python User Group.
 
+
+---
+
+## [7/15/21 - Kubernetes (Spokane DevOps Meetup)](https://www.meetup.com/Spokane-DevOps-Meetup/events/278709256/)
+
+### Code Samples
+
+https://github.com/IntelliTect-Samples/SpokanePythonUserGroup/tree/main/2021.07.15-Kubernetes
+
+### Descriptions
+
+As a guest co-host for Spokane's DevOps Meetup, I talked briefly about how to run a FastAPI application using Kubernetes.
+
 ---
 
 ## [6/15/21 - Typing for Fun and Profit](https://www.meetup.com/Python-Spokane/events/278681498/)
