@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "2021.05.18-FastAPI\\.venv\\Scripts\\python.exe",
+    "python.pythonPath": ".venv\\Scripts\\python.exe",
     "search.useIgnoreFiles": false
 }

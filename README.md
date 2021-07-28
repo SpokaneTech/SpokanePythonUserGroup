@@ -2,6 +2,17 @@
 
 A repository to host code examples from the Spokane Python User Group.
 
+---
+
+## [7/27/21 - Background Task Processing: Celery vs. Dramatiq](https://www.meetup.com/Python-Spokane/events/279452049/)
+
+### Code Samples
+
+https://github.com/IntelliTect-Samples/SpokanePythonUserGroup/tree/main/2021.07.27-Background-Tasks
+
+### Description
+
+Come learn how to do background task processing in Python using popular libraries Celery, Dramatiq, and more!
 
 ---
 
@@ -11,7 +22,7 @@ A repository to host code examples from the Spokane Python User Group.
 
 https://github.com/IntelliTect-Samples/SpokanePythonUserGroup/tree/main/2021.07.15-Kubernetes
 
-### Descriptions
+### Description
 
 As a guest co-host for Spokane's DevOps Meetup, I talked briefly about how to run a FastAPI application using Kubernetes.
 

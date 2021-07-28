@@ -1,0 +1,3 @@
+celery
+dramatiq[rabbitmq, redis, watch]
+requests
