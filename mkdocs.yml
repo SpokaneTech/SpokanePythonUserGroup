@@ -14,6 +14,8 @@ theme:
     - navigation.indexes
     - navigation.instant
     - navigation.expand
+  plugins:
+    - search
   palette:
     - scheme: default
       toggle:
