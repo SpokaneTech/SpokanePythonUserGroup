@@ -5,7 +5,7 @@ RUN pip3 install -r /tmp/requirements.txt
 
 FROM base as celery
 ENTRYPOINT [ "celery" ]
-CMD [ "-A", "celery_demo", "worker", "--loglevel=INFO" ]
+CMD [ "-A", "celery_demo", "worker", "--loglevel=DEBUG" ]
 
 FROM base as dramatiq
 ENTRYPOINT [ "dramatiq" ]

@@ -1,18 +1,18 @@
 version: "3.9"
 services:
-  # celery:
-  #   hostname: celery
-  #   image: background-tasks-celery:latest
-  #   build:
-  #     context: .
-  #     target: celery
-  #   volumes:
-  #     - ./src:/demo
-  #   working_dir: /demo
-  #   env_file: .env
-  #   depends_on:
-  #     - redis
-  #     - rabbitmq
+  celery:
+    hostname: celery
+    image: background-tasks-celery:latest
+    build:
+      context: .
+      target: celery
+    volumes:
+      - ./src:/demo
+    working_dir: /demo
+    env_file: .env
+    depends_on:
+      - redis
+      - rabbitmq
 
   dramatiq:
     hostname: dramatiq
@@ -26,18 +26,18 @@ services:
     env_file: .env
     depends_on:
       - redis
-      # - rabbitmq
+      - rabbitmq
 
   redis:
     hostname: redis
     image: redis:6
 
-  # rabbitmq:
-  #   hostname: rabbitmq:3
-  #   image: rabbitmq
+  rabbitmq:
+    hostname: rabbitmq:3
+    image: rabbitmq
 
-  # flower:
-  #   hostname: flower
-  #   image: mher/flower
-  #   depends_on:
-  #     - celery
+  flower:
+    hostname: flower
+    image: mher/flower
+    depends_on:
+      - celery

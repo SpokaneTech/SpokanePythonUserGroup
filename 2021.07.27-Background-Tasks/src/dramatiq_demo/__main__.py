@@ -11,8 +11,8 @@ if __name__ == '__main__':
     print(result.message_id)
 
     # Example 2
-    uri = sys.argv[1]
-    pipe = pipeline([
-        dramatiq_demo.get_uri_contents.message(uri),
-        dramatiq_demo.count_words.message(uri),
-    ]).run()
+    # uri = sys.argv[1]
+    # pipe = pipeline([
+    #     dramatiq_demo.get_uri_contents.message(uri),
+    #     dramatiq_demo.count_words.message(uri),
+    # ]).run()

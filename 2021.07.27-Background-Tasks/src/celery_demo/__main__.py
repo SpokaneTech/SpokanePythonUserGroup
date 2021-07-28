@@ -11,9 +11,8 @@ if __name__ == '__main__':
     print(result)
 
     # Example 2
-    uri = sys.argv[1]
-
-    pipe = celery.chain(
-        celery_demo.get_uri_contents.s(uri),
-        celery_demo.count_words.s(uri),
-    ).apply_async()
+    # uri = sys.argv[1]
+    # pipe = celery.chain(
+    #     celery_demo.get_uri_contents.s(uri),
+    #     celery_demo.count_words.s(uri),
+    # ).apply_async()

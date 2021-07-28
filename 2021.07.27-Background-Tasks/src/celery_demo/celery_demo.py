@@ -4,8 +4,9 @@ from celery import Celery
 import requests
 
 
-RABBITMQ_URL: str = os.environ['CELERY_RABBITMQ_URL']
-app = Celery('tasks', broker=RABBITMQ_URL)
+# RABBITMQ_URL: str = os.environ['CELERY_RABBITMQ_URL']
+REDIS_URL: str = os.environ['REDIS_URL']
+app = Celery('tasks', broker=REDIS_URL)
 
 
 @app.task
