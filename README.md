@@ -2,6 +2,8 @@
 
 A repository to host code examples from the Spokane Python User Group.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/25225a8f-ed8e-4ed3-af8a-e23f02e60fd2/deploy-status)](https://app.netlify.com/sites/spokanepython/deploys)
+
 ---
 
 ## [7/27/21 - Background Task Processing: Celery vs. Dramatiq](https://www.meetup.com/Python-Spokane/events/279452049/)
