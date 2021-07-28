@@ -1,2 +1,3 @@
 celery
-dramatiq[rabbitmq, watch]
+dramatiq[rabbitmq, redis, watch]
+requests

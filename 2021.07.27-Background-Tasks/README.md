@@ -1,7 +1,6 @@
 ---
 marp: true
 theme: gaia
-
 ---
 
 <!-- class: invert -->
@@ -141,9 +140,15 @@ GitHub repo created in 2017
 
 # Use Cases
 
-- Background tasks for web API
-- Distributed machine learning batch job
-
+- IO bound tasks
+  - Background tasks for web API
+  - Sending emails
+  - Connecting to other APIs
+  - Long running tasks
+- CPU/GPU bound tasks
+  - Distributed machine learning batch job
+  - Can distribute to multiple workers
+- Scheduling tasks
 
 ---
 
@@ -166,21 +171,49 @@ GitHub repo created in 2017
 
 https://dramatiq.io/motivation.html
 
-<!-- Dramatiq monitoring has a few options, including "dramatiq tasks with monitoring" and "dramatiq dashbord", but neither as good as Flower -->
+<!-- Dramatiq monitoring has a few options, including "dramatiq tasks with monitoring" and "dramatiq dashbord", but neither are as good as Flower -->
 
 ---
 
-<!--
-_class:
-  - invert
-  - lead
--->
+# Celery Code
 
-# Raffle
+```python
+from celery import Celery
 
-Feedback for free JetBrains
+app = Celery('tasks', broker='pyamqp://rabbitmq//')
 
-https://forms.office.com/r/EFnAfpu3Ue
+@app.task
+def count_to(n):
+    for i in range(n):
+        print(i)
+```
+
+---
+
+# Dramatiq Code
+
+```python
+import dramatiq
+from dramatiq.brokers.rabbitmq import RabbitmqBroker
+
+rabbitmq_broker = RabbitmqBroker(url='amqp://guest:guest@rabbitmq')
+dramatiq.set_broker(rabbitmq_broker)
+
+@dramatiq.actor
+def count_to(n):
+    for i in range(n):
+        print(i)
+```
+
+---
+
+# Best Practices
+
+- Pass small amounts of data as messages. Prefer passing IDs instead of large objects, when possible.
+- Don't use result backends if you don't have to.
+- Make tasks _idempotent_
+
+<!-- idempotent - easily retryable, can run multiple times and get the same result -->
 
 ---
 
@@ -205,8 +238,24 @@ See https://www.fullstackpython.com/task-queues.html
 
 ---
 
+<!--
+_class:
+  - invert
+  - lead
+-->
+
+# Raffle
+
+Feedback for free JetBrains
+
+https://forms.office.com/r/EFnAfpu3Ue
+
+---
+
 # References
 
-https://better.engineering/message-queues/
+[More on Message Queues](https://better.engineering/message-queues/)
 
-https://github.com/cthtuf/dramatiq-tasks-with-monitoring/blob/master/docker-compose.yml
+[Dramatiq with docker-compose](https://github.com/cthtuf/dramatiq-tasks-with-monitoring/blob/master/docker-compose.yml)
+
+[Celery with Kubernetes](https://github.com/matiaslindgren/celery-kubernetes-example)
