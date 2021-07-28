@@ -1,10 +1,32 @@
 site_name: Spokane Python User Group
 site_url: https://spokanepython.com/
+repo_url: https://github.com/Intellitect-Samples/SpokanePythonUserGroup
+repo_name: 'Code Samples'
 theme:
   name: material
   logo: img/favicon.png
+  favicon: img/favicon.png
   palette:
     primary: blue
   icon:
     repo: fontawesome/brands/github
-repo_url: https://github.com/Intellitect-Samples/SpokanePythonUserGroup
+  features:
+    - navigation.indexes
+    - navigation.instant
+    - navigation.expand
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/lightbulb-outline 
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
+nav:
+  - Home: "index.md"
+  - "Meetups":
+      - "Background Task Processing": "background-task-processing.md"
+      - "Kubernetes": "kubernetes.md"
+extra_css:
+  - stylesheets/extra.css

@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Rotundo";
+  src: "../static/Rotundo-Regular.woff2";
+}
+
+h1, .md-header {
+  font-family: "Rotundo";
+}
