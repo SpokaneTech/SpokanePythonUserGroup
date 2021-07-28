@@ -1,0 +1,10 @@
+site_name: Spokane Python User Group
+site_url: https://spokanepython.com/
+theme:
+  name: material
+  logo: img/favicon.png
+  palette:
+    primary: blue
+  icon:
+    repo: fontawesome/brands/github
+repo_url: https://github.com/Intellitect-Samples/SpokanePythonUserGroup
