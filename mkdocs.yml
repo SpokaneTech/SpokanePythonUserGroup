@@ -1,7 +1,6 @@
 site_name: Spokane Python User Group
 site_url: https://spokanepython.com/
 repo_url: https://github.com/Intellitect-Samples/SpokanePythonUserGroup
-repo_name: 'Code Samples'
 theme:
   name: material
   logo: img/favicon.png
@@ -33,5 +32,6 @@ nav:
 extra_css:
   - stylesheets/extra.css
 markdown_extensions:
+  - meta
   - pymdownx.highlight
   - pymdownx.superfences

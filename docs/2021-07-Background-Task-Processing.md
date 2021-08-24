@@ -1,3 +1,8 @@
+---
+title: "Background Task Processing: Celery vs. Dramatiq"
+description: Learn how to do background task processing in Python using popular libraries Celery, Dramatiq, and more!
+---
+
 # Background Task Processing: Celery vs. Dramatiq
 
 _July 27, 2021_

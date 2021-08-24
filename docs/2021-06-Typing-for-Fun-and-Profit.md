@@ -1,3 +1,8 @@
+---
+title: Typing for Fun and Profit
+description: Learn about types and type hinting in Python!
+---
+
 # Typing for Fun and Profit
 
 _June 15, 2021_
