@@ -1,6 +1,6 @@
 # Background Task Processing: Celery vs. Dramatiq
 
-July 27, 2021
+_July 27, 2021_
 
 ## Definitions
 
