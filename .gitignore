@@ -132,3 +132,4 @@ dmypy.json
 **$**.pptx
 **notes/
 /website/site
+*.html
