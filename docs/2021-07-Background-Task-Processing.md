@@ -18,9 +18,9 @@ Provides fast asynchronous communication between software components.
 
 Temporarily stores messages, with endpoints for software services to connect to the queue.
 
-![https://better.engineering/message-queues/](./images/message_queue.png)
+![https://better.engineering/message-queues/](./img/message_queue.png)
 
-https://better.engineering/message-queues/
+\* Image used from [https://better.engineering/message-queues/](https://better.engineering/message-queues/)
 
 ### Message Broker
 

@@ -6,8 +6,6 @@ theme:
   name: material
   logo: img/favicon.png
   favicon: img/favicon.png
-  palette:
-    primary: blue
   icon:
     repo: fontawesome/brands/github
   features:
@@ -28,7 +26,12 @@ theme:
 nav:
   - Home: "index.md"
   - "Meetups":
-      - "Background Task Processing": "background-task-processing.md"
-      - "Kubernetes": "kubernetes.md"
+      - "7/21 - Background Task Processing": "2021-07-Background-Task-Processing.md"
+      - "7/21 - Kubernetes": "2021-07-Kubernetes.md"
+      - "6/21 - Typing for Fun and Profit": "2021-06-Typing-for-Fun-and-Profit.md"
+      - "5/21 - Getting Started with FastAPI": "2021-05-Getting-Started-with-FastAPI.md"
 extra_css:
   - stylesheets/extra.css
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences

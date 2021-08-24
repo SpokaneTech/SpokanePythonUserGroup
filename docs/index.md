@@ -1,10 +1,10 @@
 # Spokane Python User Group
 
-Welcome to home of the Spokane Python User Group, Spokane's premiere local Python group! We have a wide range of topics all related to Python, Web Development, and Open Source technology. We try to meet on the 3rd Tuesday each month.
+Welcome to home of the Spokane Python User Group (_SPUG_), Spokane's premiere local Python user group! We have a wide range of topics all related to Python, Web Development, and Open Source technology. We try to meet on the 3rd Tuesday each month.
 
 All meetings are free, and we encourage everyone to participate and get involved and help grow the Python community. We're currently meeting online-only due to COVID-19. We try to base our meetings from attendee suggestions. If you have an idea for a topic that you would like to see (or present), please let the organizers know!
 
-Our meetups are managed through [meetup.com](https://www.meetup.com/Python-Spokane/).
+Our meetups events are managed on [https://www.meetup.com/Python-Spokane/](https://www.meetup.com/Python-Spokane/).
 
 ---
 
@@ -22,7 +22,7 @@ In this month's meetup, we'll explore create documentation using popular static 
 
 ## Previous Meetups
 
-### Background Task Processing: Celery vs. Dramatiq
+### [Background Task Processing: Celery vs. Dramatiq](2021-07-Background-Task-Processing.md)
 
 _July 27, 2021_
 
@@ -30,7 +30,7 @@ _July 27, 2021_
 
 Come learn how to do background task processing in Python using popular libraries Celery, Dramatiq, and more!
 
-### Kubernetes (Spokane DevOps Meetup)
+### [Kubernetes (Spokane DevOps Meetup)](2021-07-Kubernetes.md)
 
 _July 15, 2021_
 
@@ -38,7 +38,7 @@ _July 15, 2021_
 
 As a guest co-host for Spokane's DevOps Meetup, I talked briefly about how to run a FastAPI application using Kubernetes.
 
-### Typing for Fun and Profit
+### [Typing for Fun and Profit](2021-06-Typing-for-Fun-and-Profit.md)
 
 _June 15, 2021_
 
@@ -50,7 +50,7 @@ These are all questions I've asked myself at some point or another. In this mont
 
 The goal is you come out the other end of this meetup having answers to all these questions and more, and to be able to answer the question "Do I want to use typing tools in my Python projects?"
 
-### Getting Started with FastAPI
+### [Getting Started with FastAPI](2021-05-Getting-Started-with-FastAPI.md)
 
 _May 18, 2021_
 
