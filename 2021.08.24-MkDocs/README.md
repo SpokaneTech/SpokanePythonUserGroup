@@ -16,15 +16,21 @@ _August 24, 2021_
 
 ---
 
+# How to pronounce "MkDocs"
+
+- "McDocs"
+- "M-K Docs"
+- "Mark Docs"
+
+---
+
 <!-- _class:
 - lead
 -->
 
-# Feedback results
+# Feedback survey results
 
 ---
-
-## Feedback results
 
 - Most people like the current time. Some would like it during the workday.
 - Most people like the monthly cadence. Some would like it to be multiple times a month.
@@ -34,8 +40,6 @@ _August 24, 2021_
   - Data Analytics (numpy, pandas, ...)
 
 ---
-
-## Feedback results
 
 - People are interested in attending in person.
 - Some people are interested in beginner level topics / subgroup.
@@ -51,21 +55,9 @@ https://forms.office.com/r/EFnAfpu3Ue
 ## Outline
 
 1. Getting started with MkDocs
-2. Customizing the look and feel of your site
-3. Hosting your site
-
----
-
-## Follow along
-
-```
-git clone https://github.com/IntelliTect-Samples/MkDocsTemplate.git
-cd ./
-# (optional)
-# python -m virtualenv .venv
-# .venv/Scripts/Activate.ps1
-pip install -r requirements.txt
-```
+2. Adding some content
+3. Customizing the look and feel of your site
+4. Hosting your site
 
 ---
 
@@ -93,7 +85,38 @@ What is MkDocs?
 
 ---
 
-## Hosting on GitHub Pages
+# Let's grab some code
+
+```
+git clone https://github.com/IntelliTect-Samples/MkDocsTemplate.git
+cd ./MkDocsTemplate
+
+# (optional)
+# python -m virtualenv .venv
+# .venv/Scripts/Activate.ps1
+
+pip install -r requirements.txt
+mkdocs serve
+```
+
+---
+
+# Let's add some content
+
+```
+git checkout origin/clone-force-99
+```
+
+---
+
+# Let's make it look better
+
+```
+git checkout origin/clone-force-99-v2
+```
+---
+
+# Let's take a look at GitHub Pages
 
 [https://github.com/marketplace/actions/deploy-mkdocs](https://github.com/marketplace/actions/deploy-mkdocs)
 
@@ -101,6 +124,26 @@ What is MkDocs?
 
 ---
 
-# Let's add some content
+<!-- _class:
+- lead
+-->
+
+## Summary
+
+_MkDocs_ & _Material for MkDocs_ can be used to quickly and easily make a nice looking site for documentation or anything else.
 
 ---
+
+<!-- _class:
+- lead
+-->
+
+# Questions?
+
+---
+
+<!-- _class:
+- lead
+-->
+
+# Thank you all for coming! 👋

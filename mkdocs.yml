@@ -18,6 +18,8 @@ theme:
     - search
   palette:
     - scheme: default
+      primary: green
+      accent: green
       toggle:
         icon: material/lightbulb-outline 
         name: Switch to dark mode
