@@ -10,6 +10,16 @@ Our meetups events are managed on [https://www.meetup.com/Python-Spokane/](https
 
 ## Upcoming Meetups
 
+_September, 2021_
+
+There will be no SPUG meetup this month due to major life events (🤵👰🎉). 
+
+We will kick things back off in October. Circumstances depending, we will meet in-person, as well as live-stream. Can't wait to see you all!
+
+---
+
+## Previous Meetups
+
 ### Mk’ing spokanepython.com: Static Site Generation with MkDocs
 
 _August 24, 2021_
@@ -17,10 +27,6 @@ _August 24, 2021_
 [Code Samples]()
 
 In this month's meetup, we'll explore create documentation using popular static site generator, MkDocs! We'll learn about getting started with MkDocs, customizing the look and feel of your site, and hosting an online website using MkDocs!
-
----
-
-## Previous Meetups
 
 ### [Background Task Processing: Celery vs. Dramatiq](2021-07-Background-Task-Processing.md)
 
