@@ -133,3 +133,4 @@ dmypy.json
 **notes/
 /website/site
 *.html
+.DS_Store
