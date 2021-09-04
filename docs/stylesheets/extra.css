@@ -1,6 +1,10 @@
 @font-face {
   font-family: "Rotundo";
-  src: "../static/Rotundo-Regular.woff2" format("woff2");
+  src:
+    url("/static/Rotundo-Regular.woff2") format('woff2'),
+    url("/static/Rotundo-Regular.woff") format('woff'),
+    url("/static/Rotundo-Regular.ttf") format('ttf'),
+    url("/static/Rotundo-Regular.otf") format('otf');
 }
 
 h1,
