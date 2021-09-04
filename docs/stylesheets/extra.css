@@ -3,8 +3,8 @@
   src:
     url("/static/Rotundo-Regular.woff2") format('woff2'),
     url("/static/Rotundo-Regular.woff") format('woff'),
-    url("/static/Rotundo-Regular.ttf") format('ttf'),
-    url("/static/Rotundo-Regular.otf") format('otf');
+    url("/static/Rotundo-Regular.ttf") format('truetype'),
+    url("/static/Rotundo-Regular.otf") format('opentype');
 }
 
 h1,
