@@ -38,17 +38,26 @@ _August 24, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/280103
 
 > In this month's meetup, we'll explore create documentation using popular static site generator, MkDocs! We'll learn about getting started with MkDocs, customizing the look and feel of your site, and hosting an online website using MkDocs!
 
+<img src="img/mking-spokanepython-dot-com.jpeg" width="400" height="225">
+
+
 ### [Background Task Processing: Celery vs. Dramatiq](2021-07-Background-Task-Processing.md)
 
 _July 27, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/279452049/) | [Code Samples](https://github.com/IntelliTect-Samples/SpokanePythonUserGroup/tree/main/2021.07.27-Background-Tasks)
 
 > Come learn how to do background task processing in Python using popular libraries Celery, Dramatiq, and more!
 
+<img src="img/background-task-processing.jpeg" width="400" height="225">
+
+
 ### [Kubernetes (Spokane DevOps Meetup)](2021-07-Kubernetes.md)
 
 _July 15, 2021_ | [Meetup](https://www.meetup.com/Spokane-DevOps-Meetup/events/278709256/) | [Code Samples](https://github.com/IntelliTect-Samples/SpokanePythonUserGroup/tree/main/2021.07.15-Kubernetes)
 
 As a guest co-host for Spokane's DevOps Meetup, I talked briefly about how to run a FastAPI application using Kubernetes.
+
+<img src="img/deploying-to-kubernetes.jpeg" width="400" height="225">
+
 
 ### [Typing for Fun and Profit](2021-06-Typing-for-Fun-and-Profit.md)
 
@@ -59,6 +68,9 @@ _June 15, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/27868149
 > These are all questions I've asked myself at some point or another. In this month's Python User Group Meetup, we're going to dive into all things typing related.
 > 
 > The goal is you come out the other end of this meetup having answers to all these questions and more, and to be able to answer the question "Do I want to use typing tools in my Python projects?"
+
+<img src="img/typing-for-fun-and-profit.png" width="400" height="225">
+
 
 ### [Getting Started with FastAPI](2021-05-Getting-Started-with-FastAPI.md)
 
@@ -73,3 +85,4 @@ _May 18, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/278050092
 > https://fastapi.tiangolo.com/
 FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python-type hints.
 
+<img src="img/getting-started-with-fastapi.png" width="400" height="225">
