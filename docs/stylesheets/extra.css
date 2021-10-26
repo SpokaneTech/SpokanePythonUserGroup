@@ -12,6 +12,6 @@ h1,
   font-family: "Rotundo";
 }
 
-article img {
+article img, article iframe {
     border-radius: 4px;
 }

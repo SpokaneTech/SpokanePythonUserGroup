@@ -38,7 +38,7 @@ _August 24, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/280103
 
 > In this month's meetup, we'll explore create documentation using popular static site generator, MkDocs! We'll learn about getting started with MkDocs, customizing the look and feel of your site, and hosting an online website using MkDocs!
 
-<img src="img/mking-spokanepython-dot-com.jpeg" width="400" height="225">
+<iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/eJVVbZYUYro/?showinfo=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### [Background Task Processing: Celery vs. Dramatiq](2021-07-Background-Task-Processing.md)
