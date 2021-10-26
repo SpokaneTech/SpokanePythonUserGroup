@@ -14,7 +14,7 @@ Our meetups events are managed on [Meetup](https://www.meetup.com/Python-Spokane
 
 ### Pragmatic Python: Welcome to the Jungle
 
-_November 2, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/281578925/) | Code Samples
+_November 2, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/281578925/) | [Code Samples](https://github.com/IntelliTect-Samples/SpokanePythonUserGroup/tree/main/2021.11.04-Pragmatic-Python-1)
 
 After taking a month (or two) off for my wedding, we're back at it again for November with a brand spanking new series dubbed _"Pragmatic Python"_!
 
