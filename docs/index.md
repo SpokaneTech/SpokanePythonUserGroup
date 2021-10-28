@@ -18,6 +18,8 @@ _November 2, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/28157
 
 After taking a month (or two) off for my wedding, we're back at it again for November with a brand spanking new series dubbed _"Pragmatic Python"_!
 
+<img src="img/pragmatic-python-welcome-to-the-jungle.jpeg" width="600" height="337.5">
+
 > Welcome to Pragmatic Python, a new series of meetups that will focus on building your Python knowledge from the ground up. For the next several meetups, we'll focus on taking you from a small garter snake all the way to a full-fledged, certified* Python-ista! 🐍
 > 
 > This month's meetup, "Welcome to the Jungle", will focus on getting started with Python. Topics will include installing python, writing basic scripts, a look at popular libraries, and more!
@@ -26,29 +28,31 @@ After taking a month (or two) off for my wedding, we're back at it again for Nov
 > 
 > \* There will be no certification exam 😉
 
-<img src="img/pragmatic-python-welcome-to-the-jungle.jpeg" width="600" height="337.5">
-
 ---
 
 ## Previous Meetups
+
+---
 
 ### Mk’ing spokanepython.com: Static Site Generation with MkDocs
 
 _August 24, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/280103526/) | [Code Samples](https://github.com/IntelliTect-Samples/SpokanePythonUserGroup/tree/main/2021.08.24-MkDocs)
 
-> In this month's meetup, we'll explore create documentation using popular static site generator, MkDocs! We'll learn about getting started with MkDocs, customizing the look and feel of your site, and hosting an online website using MkDocs!
-
 <iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/eJVVbZYUYro/?showinfo=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+> In this month's meetup, we'll explore create documentation using popular static site generator, MkDocs! We'll learn about getting started with MkDocs, customizing the look and feel of your site, and hosting an online website using MkDocs!
+
+---
 
 ### [Background Task Processing: Celery vs. Dramatiq](2021-07-Background-Task-Processing.md)
 
 _July 27, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/279452049/) | [Code Samples](https://github.com/IntelliTect-Samples/SpokanePythonUserGroup/tree/main/2021.07.27-Background-Tasks)
 
-> Come learn how to do background task processing in Python using popular libraries Celery, Dramatiq, and more!
-
 <img src="img/background-task-processing.jpeg" width="400" height="225">
 
+> Come learn how to do background task processing in Python using popular libraries Celery, Dramatiq, and more!
+
+---
 
 ### [Kubernetes (Spokane DevOps Meetup)](2021-07-Kubernetes.md)
 
@@ -58,10 +62,13 @@ As a guest co-host for Spokane's DevOps Meetup, I talked briefly about how to ru
 
 <img src="img/deploying-to-kubernetes.jpeg" width="400" height="225">
 
+---
 
 ### [Typing for Fun and Profit](2021-06-Typing-for-Fun-and-Profit.md)
 
 _June 15, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/278681498/) | [Code Samples](https://github.com/IntelliTect-Samples/SpokanePythonUserGroup/tree/main/2021.06.15-Typing)
+
+<img src="img/typing-for-fun-and-profit.png" width="400" height="225">
 
 > Why can you reassign a variable from a string to an integer in Python but not some other languages? Is Python a typed language? Is Python strongly or weakly typed? Does it using static or dynamic typing? What's the Typing module all about? Are there other options than MyPy for type checking (heck, what _is_ MyPy)? What is duck typing???
 > 
@@ -69,12 +76,13 @@ _June 15, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/27868149
 > 
 > The goal is you come out the other end of this meetup having answers to all these questions and more, and to be able to answer the question "Do I want to use typing tools in my Python projects?"
 
-<img src="img/typing-for-fun-and-profit.png" width="400" height="225">
-
+---
 
 ### [Getting Started with FastAPI](2021-05-Getting-Started-with-FastAPI.md)
 
 _May 18, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/278050092/) | [Code Samples](https://github.com/IntelliTect-Samples/SpokanePythonUserGroup/tree/main/2021.05.18-FastAPI)
+
+<img src="img/getting-started-with-fastapi.png" width="400" height="225">
 
 > Do you want to learn about using a web framework in Python?
 > Are you tired of using Flask and looking for something more?
@@ -84,5 +92,3 @@ _May 18, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/278050092
 > 
 > https://fastapi.tiangolo.com/
 FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python-type hints.
-
-<img src="img/getting-started-with-fastapi.png" width="400" height="225">
