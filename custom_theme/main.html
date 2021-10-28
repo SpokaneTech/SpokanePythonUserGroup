@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block analytics %}
+<script>
+    // Only load on production environment.
+    if (window.location.host !== 'spokanepython.com')
+    window.goatcounter = {no_onload: true}
+</script>
+<script data-goatcounter="https://spokanepython.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+{% endblock %}
