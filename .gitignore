@@ -133,6 +133,6 @@ dmypy.json
 **notes/
 /website/site
 *.html
-!custom_theme/**.html
+!overrides/**/*.html
 .DS_Store
 .vscode

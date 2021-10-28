@@ -5,7 +5,7 @@ repo_name: SpokanePythonUserGroup
 
 theme:
   name: material
-  custom_dir: custom_theme/
+  custom_dir: overrides
   logo: img/favicon.png
   favicon: img/favicon.png
   icon:
