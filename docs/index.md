@@ -68,7 +68,7 @@ As a guest co-host for Spokane's DevOps Meetup, I talked briefly about how to ru
 
 _June 15, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/278681498/) | [Code Samples](https://github.com/IntelliTect-Samples/SpokanePythonUserGroup/tree/main/2021.06.15-Typing)
 
-<img src="img/typing-for-fun-and-profit.png" width="400" height="225">
+<iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/OUq_qrf-Ro0/?showinfo=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > Why can you reassign a variable from a string to an integer in Python but not some other languages? Is Python a typed language? Is Python strongly or weakly typed? Does it using static or dynamic typing? What's the Typing module all about? Are there other options than MyPy for type checking (heck, what _is_ MyPy)? What is duck typing???
 > 
