@@ -12,7 +12,7 @@ Our meetups events are managed on [Meetup](https://www.meetup.com/Python-Spokane
 
 ## Upcoming Meetups
 
-### Pragmatic Python: Welcome to the Jungle
+### [Pragmatic Python: Welcome to the Jungle](meetups/pragmatic-python-01.md)
 
 _November 2, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/281578925/) | [Code Samples](https://github.com/IntelliTect-Samples/SpokanePythonUserGroup/tree/main/2021.11.04-Pragmatic-Python-1)
 
@@ -34,9 +34,9 @@ After taking a month (or two) off for my wedding, we're back at it again for Nov
 
 ---
 
-### Mk’ing spokanepython.com: Static Site Generation with MkDocs
+### [Mk’ing spokanepython.com: Static Site Generation with MkDocs](meetups/static-site-generation.md)
 
-_August 24, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/280103526/) | [Code Samples](https://github.com/IntelliTect-Samples/SpokanePythonUserGroup/tree/main/2021.08.24-MkDocs)
+_August 24, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/280103526/) | [Code Samples](https://github.com/IntelliTect-Samples/SpokanePythonUserGroup/tree/main/2021-08-24-MkDocs)
 
 <iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/eJVVbZYUYro/?showinfo=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -44,7 +44,7 @@ _August 24, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/280103
 
 ---
 
-### [Background Task Processing: Celery vs. Dramatiq](2021-07-Background-Task-Processing.md)
+### [Background Task Processing: Celery vs. Dramatiq](meetups/background-task-processing.md)
 
 _July 27, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/279452049/) | [Code Samples](https://github.com/IntelliTect-Samples/SpokanePythonUserGroup/tree/main/2021.07.27-Background-Tasks)
 
@@ -54,7 +54,7 @@ _July 27, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/27945204
 
 ---
 
-### [Kubernetes (Spokane DevOps Meetup)](2021-07-Kubernetes.md)
+### [Kubernetes (meetups/Spokane DevOps Meetup)](meetups/kubernetes.md)
 
 _July 15, 2021_ | [Meetup](https://www.meetup.com/Spokane-DevOps-Meetup/events/278709256/) | [Code Samples](https://github.com/IntelliTect-Samples/SpokanePythonUserGroup/tree/main/2021.07.15-Kubernetes)
 
@@ -64,7 +64,7 @@ As a guest co-host for Spokane's DevOps Meetup, I talked briefly about how to ru
 
 ---
 
-### [Typing for Fun and Profit](2021-06-Typing-for-Fun-and-Profit.md)
+### [Typing for Fun and Profit](meetups/typing-for-fun-and-profit.md)
 
 _June 15, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/278681498/) | [Code Samples](https://github.com/IntelliTect-Samples/SpokanePythonUserGroup/tree/main/2021.06.15-Typing)
 
@@ -78,7 +78,7 @@ _June 15, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/27868149
 
 ---
 
-### [Getting Started with FastAPI](2021-05-Getting-Started-with-FastAPI.md)
+### [Getting Started with FastAPI](meetups/getting-started-with-fastapi.md)
 
 _May 18, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/278050092/) | [Code Samples](https://github.com/IntelliTect-Samples/SpokanePythonUserGroup/tree/main/2021.05.18-FastAPI)
 
