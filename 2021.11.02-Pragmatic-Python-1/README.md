@@ -267,14 +267,13 @@ Montero-Pajero-SR-Safari-roof-1998.jpg
 $ python -m app --query "montero" --locations "spokane" "seattle"
 ```
 ```text
-Found 3 montero for sale near Spokane:
-    ($3,700) mitsubishi montero XlS 2002
-    ($6,000) Montero/Pajero SR Safari roof 1998
-    ($650) 2002 Mitsubishi Montero Sport 2002
-
-Found 5 montero for sale near Seattle:
-    ($2,000) 2003 Mitsu Montero Sport XLS
-    ...
+mitsubishi montero XlS 2002
+Montero/Pajero SR Safari roof 1998
+2002 Mitsubishi Montero Sport 2002
+2 rare Mitsubishi Monteros Gen 1
+2003 Mitsu Montero Sport XLS
+2002 Mitsubishi Montero Sport Mechanics Special
+...
 ```
 
 ---

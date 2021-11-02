@@ -2,7 +2,7 @@ import argparse
 import os
 import re
 import shutil
-from typing import Union
+from typing import Optional, Union
 import unicodedata
 
 import bs4
@@ -13,6 +13,15 @@ from .items import Item
 
 
 DEFAULT_OUTPUT_PATH = os.path.abspath("out")
+
+
+def generate_urls(locations: list[str], query: Optional[str]) -> list[str]:
+    urls = [
+        f"https://{location}.craigslist.org/d/cars-trucks-by-owner/search/cto?query={query}"
+        for location
+        in locations
+    ]
+    return urls
 
 
 def get(url: str, **kwargs) -> requests.Response:
@@ -108,7 +117,10 @@ def find_lowest_priced_item(items: list[Item]) -> Item:
 
 def parse_cli_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument("url")
+    group = parser.add_mutually_exclusive_group()
+    group.add_argument("url", nargs="?")
+    group.add_argument("-l", "--locations", nargs="+")
+    parser.add_argument("--query")
     parser.add_argument("--lowest", action="store_true")
     parser.add_argument("--images", action="store_true")
     parser.add_argument("-o", "--output", default=DEFAULT_OUTPUT_PATH)
@@ -118,20 +130,26 @@ def parse_cli_args():
 
 def main():
     cli_args = parse_cli_args()
-    response = get(cli_args.url)
-    soup = bs4.BeautifulSoup(response.text, "html.parser")
-    items = parse_items(soup)
-
-    if cli_args.lowest:
-        lowest_priced_item = find_lowest_priced_item(items)
-        print(f"{lowest_priced_item.title} is the lowest priced vehicle at ${lowest_priced_item.price}")
-    elif cli_args.images:
-        output = cli_args.output
-        for item in items:
-            download_item_images(item, output=output)
+    if cli_args.url:
+        urls = [cli_args.url]
     else:
-        for item in items:
-            print(item.title)
+        urls = generate_urls(cli_args.locations, cli_args.query)
+    
+    for url in urls:
+        response = get(url)
+        soup = bs4.BeautifulSoup(response.text, "html.parser")
+        items = parse_items(soup)
+
+        if cli_args.lowest:
+            lowest_priced_item = find_lowest_priced_item(items)
+            print(f"{lowest_priced_item.title} is the lowest priced vehicle at ${lowest_priced_item.price}")
+        elif cli_args.images:
+            output = cli_args.output
+            for item in items:
+                download_item_images(item, output=output)
+        else:
+            for item in items:
+                print(item.title)
 
 
 if __name__ == "__main__":
