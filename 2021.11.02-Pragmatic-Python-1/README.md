@@ -77,7 +77,7 @@ Teach user group members practical skills to create, manage, and host their own 
 # Outline
 - What is Python?
 - Installing Python
-- Editing Python
+- Running Python
 - Anatomy of a **module**
 - Anatomy of a **package**
 - Using the standard library
@@ -95,11 +95,11 @@ Craigslist CLI tool
 # What is Python?
 
 - Interpreted
-- Object-oriented
 - Dynamic
 - Strong
 - Indented
 - Beginner-friendly
+- Object-oriented
 
 ---
 # Python 2 or 3?
@@ -133,7 +133,10 @@ $ sudo apt-get install python
 tl;dr: use `pyenv` or Homebrew. **Don't use the built-in Python.**
 
 ---
-# Editing Python
+# Running Python
+#### REPL
+_**R**ead-**E**val-**P**rint-**L**oop_
+
 #### IDLE
 _**I**ntegrated **D**evelopment and **L**earning **E**nvironment_
 Python-specific
@@ -276,6 +279,7 @@ Found 5 montero for sale near Seattle:
 
 ---
 # Craigslist CLI Ideas
+- Filter posts from within the last week
 - Scrape data from item details page
 - Calculate average price for vehicle
 - Create UI using `tkinter`
@@ -284,7 +288,9 @@ Found 5 montero for sale near Seattle:
 
 ---
 # Pair Programming
-Find a buddy and tackle an improvement for the next 20 minutes.
+Find a fellow Pythonista and tackle an improvement for the next 20 minutes.
+</br>
+[https://code.visualstudio.com/learn/collaboration/live-share](https://code.visualstudio.com/learn/collaboration/live-share)
 
 ---
 # Lightning Presentations
