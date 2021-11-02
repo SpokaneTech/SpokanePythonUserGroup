@@ -22,7 +22,7 @@ theme:
       primary: green
       accent: green
       toggle:
-        icon: material/lightbulb-outline 
+        icon: material/lightbulb-outline
         name: Switch to dark mode
     - scheme: slate
       toggle:
@@ -31,6 +31,10 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/termynal.css
+
+extra_javascript:
+  - scripts/termynal.js
 
 markdown_extensions:
   - meta
@@ -40,13 +44,14 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - Home: "index.md"
+  - "Home": "index.md"
   - "Meetups":
-      - "Mk’ing spokanepython.com": "2021.08.24-Static-Site-Generation-with-MkDocs.md"
-      - "Background Task Processing": "2021-07-Background-Task-Processing.md"
-      - "Kubernetes": "2021-07-Kubernetes.md"
-      - "Typing for Fun and Profit": "2021-06-Typing-for-Fun-and-Profit.md"
-      - "Getting Started with FastAPI": "2021-05-Getting-Started-with-FastAPI.md"
+      - "Pragmatic Python: Welcome to the Jungle": "meetups/pragmatic-python-01.md"
+      - "Mk’ing spokanepython.com": "meetups/static-site-generation.md"
+      - "Background Task Processing": "meetups/background-task-processing.md"
+      - "Kubernetes": "meetups/kubernetes.md"
+      - "Typing for Fun and Profit": "meetups/typing-for-fun-and-profit.md"
+      - "Getting Started with FastAPI": "meetups/getting-started-with-fastapi.md"
 
 extra:
   social:

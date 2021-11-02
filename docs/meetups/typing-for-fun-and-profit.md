@@ -131,7 +131,7 @@ foo + bar
 
 ## Review
 
-![](./img/graph.png)
+![](../img/graph.png)
 
 Python is **strongly** typed because it restricts how types interact and **dynamically** typed becuase types are determined and can change at runtime.
 
