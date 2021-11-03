@@ -36,7 +36,11 @@ https://spokanepython.com
 [IntelliTect YouTube](https://www.youtube.com/channel/UCZSEfrUQnLLohBWDKRRSohw)
 
 ---
+<!-- _class: lead -->
 # “Pragmatic” ?
+
+---
+# Pragmatic
 
 > of or relating to a practical point of view or practical considerations.
 
