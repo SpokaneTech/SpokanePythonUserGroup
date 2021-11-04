@@ -12,13 +12,27 @@ Our meetups events are managed on [Meetup](https://www.meetup.com/Python-Spokane
 
 ## Upcoming Meetups
 
+### [Pragmatic Python II: Journey to the Pythonic Peak](meetups/pragmatic-python-02.md)
+
+_December 7, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/281821257/)
+
+<img src="img/pragmatic-python-ii-journey-to-the-pythonic-peak.jpeg" width="600" height="337.5">
+
+> Come journey with us to the Pythonic Peak! Learn to write "pythonic" code and level-up your Python.
+>
+> Detailed description coming soon...
+
+---
+
+## Previous Meetups
+
 ### [Pragmatic Python: Welcome to the Jungle](meetups/pragmatic-python-01.md)
 
 _November 2, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/281578925/) | [Code Samples](https://github.com/IntelliTect-Samples/SpokanePythonUserGroup/tree/main/2021.11.04-Pragmatic-Python-1)
 
 After taking a month (or two) off for my wedding, we're back at it again for November with a brand spanking new series dubbed _"Pragmatic Python"_!
 
-<img src="img/pragmatic-python-welcome-to-the-jungle.jpeg" width="600" height="337.5">
+<img src="img/pragmatic-python-welcome-to-the-jungle.jpeg" width="400" height="225">
 
 > Welcome to Pragmatic Python, a new series of meetups that will focus on building your Python knowledge from the ground up. For the next several meetups, we'll focus on taking you from a small garter snake all the way to a full-fledged, certified* Python-ista! 🐍
 > 
@@ -27,10 +41,6 @@ After taking a month (or two) off for my wedding, we're back at it again for Nov
 > Stay tuned for more info...
 > 
 > \* There will be no certification exam 😉
-
----
-
-## Previous Meetups
 
 ---
 

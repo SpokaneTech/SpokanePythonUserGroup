@@ -46,6 +46,7 @@ markdown_extensions:
 nav:
   - "Home": "index.md"
   - "Meetups":
+      - "Pragmatic Python II: Journey to the Pythonic Peak": "meetups/pragmatic-python-02.md"
       - "Pragmatic Python: Welcome to the Jungle": "meetups/pragmatic-python-01.md"
       - "Mk’ing spokanepython.com": "meetups/static-site-generation.md"
       - "Background Task Processing": "meetups/background-task-processing.md"
