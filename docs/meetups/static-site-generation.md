@@ -7,71 +7,15 @@ description: Learn about getting started with MkDocs, customizing the look and f
 
 _August 24, 2021_
 
-## How to pronounce "MkDocs"
+## Links
+[Code Samples](https://github.com/python-spokane/static-site-generation-with-mkdocs)
 
-- "McDocs"
-- "M-K Docs"
-- "Mark Docs"
+[Meetup event](https://www.meetup.com/Python-Spokane/events/280103526/)
 
-## Outline
+## Slides
 
-1. Getting started with MkDocs
-2. Adding some content
-3. Customizing the look and feel of your site
-4. Hosting your site
+<iframe width="560" height="315" src="/static/Static-Site-Generation-Slides.html"></iframe>
 
-## Sites that use MkDocs:
+## Recording
 
-- [SPUG](https://spokanepython.com/)
-- [FastAPI](https://fastapi.tiangolo.com/)
-- [Pydantic](https://pydantic-docs.helpmanual.io/)
-- [ODMantic](https://art049.github.io/odmantic/)
-- [MkDocs](https://www.mkdocs.org/)
-- [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
-- many, many more...
-
-## Getting started with MkDocs
-
-What is MkDocs?
-
-[https://www.mkdocs.org/](https://www.mkdocs.org/)
-
-- Static site generator that's geared towards building project documentation
-- Source files are written in Markdown
-- Configured with a single YAML configuration file
-
-## Let's grab some code
-
-```
-git clone https://github.com/IntelliTect-Samples/MkDocsTemplate.git
-cd ./MkDocsTemplate
-
-## (optional)
-## python -m virtualenv .venv
-## .venv/Scripts/Activate.ps1
-
-pip install -r requirements.txt
-mkdocs serve
-```
-
-## Let's add some content
-
-```
-git checkout origin/clone-force-99
-```
-
-## Let's make it look better
-
-```
-git checkout origin/clone-force-99-v2
-```
-
-## Let's take a look at GitHub Pages
-
-[https://github.com/marketplace/actions/deploy-mkdocs](https://github.com/marketplace/actions/deploy-mkdocs)
-
-[https://intellitect-samples.github.io/MkDocsTemplate/](https://intellitect-samples.github.io/MkDocsTemplate/)
-
-## Summary
-
-_MkDocs_ & _Material for MkDocs_ can be used to quickly and easily make a nice looking site for documentation or anything else.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eJVVbZYUYro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

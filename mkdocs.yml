@@ -50,7 +50,7 @@ nav:
       - "Pragmatic Python: Welcome to the Jungle": "meetups/pragmatic-python-01.md"
       - "Mk’ing spokanepython.com": "meetups/static-site-generation.md"
       - "Background Task Processing": "meetups/background-task-processing.md"
-      - "Kubernetes": "meetups/kubernetes.md"
+      - "Kubernetes and Python": "meetups/kubernetes.md"
       - "Typing for Fun and Profit": "meetups/typing-for-fun-and-profit.md"
       - "Getting Started with FastAPI": "meetups/getting-started-with-fastapi.md"
 

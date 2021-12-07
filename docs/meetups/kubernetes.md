@@ -7,6 +7,15 @@ description: Learn how to use Kubernetes to run a FastAPI application!
 
 _July 15, 2021_
 
+## Links
+[Code Samples](https://github.com/python-spokane/kubernetes-and-python)
+
+[Meetup event](https://www.meetup.com/Spokane-DevOps-Meetup/events/278709256/)
+
+## Recording
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/todSDrCjMl0?start=3640" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## docker
 
 Start a local container registry
