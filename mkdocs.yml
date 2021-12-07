@@ -56,7 +56,7 @@ nav:
 
 extra:
   social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/pythonspokane
     - icon: fontawesome/brands/github
-      link: https://github.com/joeriddles/
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/joseph-riddle/
+      link: https://github.com/python-spokane/
