@@ -1,6 +1,0 @@
-fastapi
-pymongo
-pytest
-python-multipart
-requests
-uvicorn[standard]

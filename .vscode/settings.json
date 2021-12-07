@@ -1,4 +1,3 @@
 {
-    "python.pythonPath": "env\\Scripts\\python.exe",
-    "search.useIgnoreFiles": false
+    "python.pythonPath": ".venv\\Scripts\\python.exe"
 }
