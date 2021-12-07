@@ -6,7 +6,7 @@ title: "Pragmatic Python: Welcome to the Jungle"
 
 _November 2, 2021_
 
-[Presentation](../static/Pragmatic-Python-01-Presentation.html)
+<iframe width="560" height="315" src="https://spokanepython.com/static/Pragmatic-Python-01-Presentation.html"></iframe>
 
 [Code Samples](https://github.com/python-spokane/welcome-to-the-jungle)
 
