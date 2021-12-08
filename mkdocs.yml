@@ -45,7 +45,9 @@ markdown_extensions:
 
 nav:
   - "Home": "index.md"
+  - "About": "about.md"
   - "Meetups":
+      - "An Anything but Mundane Intro to Machine Learning": "meetups/intro-to-machine-learning.md"
       - "Pragmatic Python II: Journey to the Pythonic Peak": "meetups/pragmatic-python-02.md"
       - "Pragmatic Python: Welcome to the Jungle": "meetups/pragmatic-python-01.md"
       - "Mk’ing spokanepython.com": "meetups/static-site-generation.md"

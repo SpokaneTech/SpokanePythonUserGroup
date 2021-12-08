@@ -5,12 +5,11 @@ description: Learn how to do background task processing in Python using popular 
 
 # Background Task Processing: Celery vs. Dramatiq
 
-_July 27, 2021_
+_July 27, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/279452049/) | [Code Samples](https://github.com/python-spokane/background-task-processing)
 
-## Links
-[Code Samples](https://github.com/python-spokane/background-task-processing)
+<img src="/img/background-task-processing.jpeg" width="600" height="337.5">
 
-[Meetup event](https://www.meetup.com/Python-Spokane/events/279452049/)
+Come learn how to do background task processing in Python using popular libraries Celery, Dramatiq, and more!
 
 ## Slides
 

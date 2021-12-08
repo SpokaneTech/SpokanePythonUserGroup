@@ -5,18 +5,19 @@ description: Learn how to use Kubernetes to run a FastAPI application!
 
 # Kubernetes
 
-_July 15, 2021_
+_July 15, 2021_ | [Meetup](https://www.meetup.com/Spokane-DevOps-Meetup/events/278709256/) | [Code Samples](https://github.com/python-spokane/kubernetes-and-python)
 
-## Links
-[Code Samples](https://github.com/python-spokane/kubernetes-and-python)
+As a guest co-host for Spokane's DevOps Meetup, I talked briefly about how to run a FastAPI application using Kubernetes.
 
-[Meetup event](https://www.meetup.com/Spokane-DevOps-Meetup/events/278709256/)
+<img src="/img/deploying-to-kubernetes.jpeg" width="600" height="337.5">
 
 ## Recording
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/todSDrCjMl0?start=3640" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## docker
+## Notes
+
+### docker
 
 Start a local container registry
 ```
@@ -39,13 +40,13 @@ push image to local registry
 docker push localhost:5000/example-cars
 ```
 
-## kubectl
+### kubectl
 
 ```powershell
 kubectl apply -f .\app.yaml
 ```
 
-## az (Azure)
+### az (Azure)
 
 ```powershell
 az login
@@ -58,6 +59,6 @@ Create network
 az network public-ip create --resource-group aksdemo --name example-cars-ip
 ```
 
-## Reference
+### Reference
 
 [https://github.com/philspokas/deploying-kubernetes/blob/main/create-cluster.ps1](https://github.com/philspokas/deploying-kubernetes/blob/main/create-cluster.ps1)
