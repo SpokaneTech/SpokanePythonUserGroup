@@ -136,4 +136,3 @@ dmypy.json
 !docs/static/**/*.html
 !overrides/**/*.html
 .DS_Store
-.vscode
