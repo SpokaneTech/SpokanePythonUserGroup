@@ -1,5 +1,6 @@
 site_name: Spokane Python User Group
 site_url: https://spokanepython.com/
+site_description: Home of the Spokane Python User Group 🐍
 repo_url: https://github.com/Intellitect-Samples/SpokanePythonUserGroup
 repo_name: SpokanePythonUserGroup
 
@@ -17,6 +18,7 @@ theme:
     - navigation.sections
   plugins:
     - search
+    - social
   palette:
     - scheme: default
       primary: green
@@ -25,6 +27,8 @@ theme:
         icon: material/lightbulb-outline
         name: Switch to dark mode
     - scheme: slate
+      primary: green
+      accent: green
       toggle:
         icon: material/lightbulb
         name: Switch to light mode
@@ -44,7 +48,7 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - "Home": "index.md"
+  - "Spokane Python User Group": "index.md"
   - "About": "about.md"
   - "Meetups":
       - "Pragmatic Python IV: Adventures in A.I.": "meetups/adventures-in-ai.md"
