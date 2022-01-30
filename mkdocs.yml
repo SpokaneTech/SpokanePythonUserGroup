@@ -7,7 +7,7 @@ repo_name: SpokanePythonUserGroup
 theme:
   name: material
   custom_dir: overrides
-  logo: img/favicon.png
+  logo: img/favicon.svg
   favicon: img/favicon.png
   icon:
     repo: fontawesome/brands/github
