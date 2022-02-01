@@ -49,12 +49,13 @@ markdown_extensions:
 
 nav:
   - "Spokane Python User Group": "index.md"
-  - "About": "about.md"
+  - "About SPUG": "about.md"
+  - "Getting Started with Python": "getting-started.md"
   - "Meetups":
       - "Pragmatic Python IV: Adventures in A.I.": "meetups/adventures-in-ai.md"
       - "Pragmatic Python III: An Anything but Mundane Intro to Machine Learning": "meetups/intro-to-machine-learning.md"
       - "Pragmatic Python II: Journey to the Pythonic Peak": "meetups/pragmatic-python-02.md"
-      - "Pragmatic Python: Welcome to the Jungle": "meetups/pragmatic-python-01.md"
+      - "Pragmatic Python I: Welcome to the Jungle": "meetups/pragmatic-python-01.md"
       - "Mk’ing spokanepython.com": "meetups/static-site-generation.md"
       - "Background Task Processing": "meetups/background-task-processing.md"
       - "Kubernetes and Python": "meetups/kubernetes.md"
