@@ -3,10 +3,9 @@ title: Adventures in A.I.
 description: An intro to artificial intelligence with elementary games
 ---
 
-
 # Adventures in A.I.
 
-_February 15, 2022_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/283533381/) | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/adventures-in-ai) 
+_February 15, 2022_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/283533381/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/adventures-in-ai){target=_blank} | [:fontawesome-brands-youtube: Recording](https://youtu.be/uejLKir8VEk){target=_blank}
 
 <img src="/img/adventures-in-ai.jpg" width="600" height="337.5">
 

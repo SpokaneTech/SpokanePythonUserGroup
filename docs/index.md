@@ -2,21 +2,31 @@
 
 ## Upcoming Meetups
 
-### [Pragmatic Python IV: Adventures in A.I.](meetups/adventures-in-ai.md)
+### [Pragmatic Python V: All Things Hosting](meetups/all-things-hosting.md)
 
-_February 15, 2022_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/283533381/) | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/adventures-in-ai) 
+_February 15, 2022_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/284051006/){target=_blank}
 
-<img src="/img/adventures-in-ai.jpg" width="600" height="337.5">
+<img src="/img/all-things-hosting.jpg" width="600" height="337.5">
 
-After a smashing intro to machine learning in January, this month we'll dive into **buzz word** artificial intelligence! We'll walk through building an AI that can play basic games.
+Join us for all things hosting! We'll be discussing how to host your Python projects on a few different cloud provider platforms, including AWS, Azure, and more!
 
 ---
 
 ## Previous Meetups
 
+### [Pragmatic Python IV: Adventures in A.I.](meetups/adventures-in-ai.md)
+
+_February 15, 2022_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/283533381/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/adventures-in-ai){target=_blank} | [:fontawesome-brands-youtube: Recording](https://youtu.be/uejLKir8VEk){target=_blank}
+
+<img src="/img/adventures-in-ai.jpg" width="400" height="225">
+
+After a smashing intro to machine learning in January, this month we'll dive into **buzz word** artificial intelligence! We'll walk through building an AI that can play basic games.
+
+---
+
 ### [Pragmatic Python III: An _Anything but Mundane_ Intro to Machine Learning](meetups/intro-to-machine-learning.md)
 
-_January 18, 2022_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/282570621/)
+_January 18, 2022_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/282570621/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/intro-to-machine-learning)
 
 <img src="/img/intro-to-machine-learning.jpg" width="400" height="225">
 
@@ -26,7 +36,7 @@ Join us for the third session of our Pragmatic Python series where data analyst 
 
 ### [Pragmatic Python II: Journey to the Pythonic Peak](meetups/pragmatic-python-02.md)
 
-_December 7, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/281821257/) | [:fontawesome-brands-github: Code Samples]()
+_December 7, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/281821257/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/journey-to-the-pythonic-peak)
 
 <img src="/img/pragmatic-python-ii-journey-to-the-pythonic-peak.jpeg" width="400" height="225">
 
@@ -39,7 +49,7 @@ Bring your computers as we'll be writing code 👨🏻‍💻
 
 ### [Pragmatic Python: Welcome to the Jungle](meetups/pragmatic-python-01.md)
 
-_November 2, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/281578925/) | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/journey-to-the-pythonic-peak)
+_November 2, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/281578925/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/journey-to-the-pythonic-peak){target=_blank} | [:fontawesome-brands-youtube: Recording](https://youtu.be/KzM_-gky_58){target=_blank}
 
 <img src="/img/pragmatic-python-welcome-to-the-jungle.jpeg" width="400" height="225">
 
@@ -53,7 +63,7 @@ This month's meetup, "Welcome to the Jungle", will focus on getting started with
 
 ### [Mk’ing spokanepython.com: Static Site Generation with MkDocs](meetups/static-site-generation.md)
 
-_August 24, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/280103526/) | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/static-site-generation-with-mkdocs)
+_August 24, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/280103526/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/static-site-generation-with-mkdocs){target=_blank} | [:fontawesome-brands-youtube: Recording](https://youtu.be/eJVVbZYUYro){target=_blank}
 
 <iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/eJVVbZYUYro/?showinfo=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -63,7 +73,7 @@ In this month's meetup, we'll explore create documentation using popular static 
 
 ### [Background Task Processing: Celery vs. Dramatiq](meetups/background-task-processing.md)
 
-_July 27, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/279452049/) | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/background-task-processing)
+_July 27, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/279452049/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/background-task-processing){target=_blank} | [:fontawesome-brands-youtube: Recording](https://youtu.be/9mYR8rNmg2A){target=_blank}
 
 <img src="/img/background-task-processing.jpeg" width="400" height="225">
 
@@ -73,7 +83,7 @@ Come learn how to do background task processing in Python using popular librarie
 
 ### [Kubernetes and Python](meetups/kubernetes.md)
 
-_July 15, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Spokane-DevOps-Meetup/events/278709256/) | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/kubernetes-and-python)
+_July 15, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Spokane-DevOps-Meetup/events/278709256/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/kubernetes-and-python){target=_blank} | [:fontawesome-brands-youtube: Recording](https://youtu.be/todSDrCjMl0){target=_blank}
 
 <img src="/img/deploying-to-kubernetes.jpeg" width="400" height="225">
 
@@ -83,7 +93,7 @@ As a guest co-host for Spokane's DevOps Meetup, I talked briefly about how to ru
 
 ### [Typing for Fun and Profit](meetups/typing-for-fun-and-profit.md)
 
-_June 15, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/278681498/) | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/typing-for-fun-and-profit)
+_June 15, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/278681498/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/typing-for-fun-and-profit){target=_blank} | [:fontawesome-brands-youtube: Recording](https://youtu.be/OUq_qrf-Ro0){target=_blank}
 
 <iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/OUq_qrf-Ro0/?showinfo=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -97,7 +107,7 @@ The goal is you come out the other end of this meetup having answers to all thes
 
 ### [Getting Started with FastAPI](meetups/getting-started-with-fastapi.md)
 
-_May 18, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/278050092/) | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/getting-started-with-fastapi)
+_May 18, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/278050092/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/getting-started-with-fastapi){target=_blank}
 
 <img src="/img/getting-started-with-fastapi.png" width="400" height="225">
 

@@ -41,6 +41,7 @@ extra_javascript:
   - scripts/termynal.js
 
 markdown_extensions:
+  - attr_list
   - meta
   - pymdownx.highlight
   - pymdownx.superfences
@@ -55,6 +56,7 @@ nav:
   - "About SPUG": "about.md"
   - "Getting Started with Python": "getting-started.md"
   - "Meetups":
+      - "Pragmatic Python V: All Things Hosting": "meetups/all-things-hosting.md"
       - "Pragmatic Python IV: Adventures in A.I.": "meetups/adventures-in-ai.md"
       - "Pragmatic Python III: An Anything but Mundane Intro to Machine Learning": "meetups/intro-to-machine-learning.md"
       - "Pragmatic Python II: Journey to the Pythonic Peak": "meetups/pragmatic-python-02.md"

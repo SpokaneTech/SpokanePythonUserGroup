@@ -5,7 +5,7 @@ description: Learn about how to get started with one of the fastest-growing Pyth
 
 # Getting Started with FastAPI
 
-_May 18, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/278050092/) | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/getting-started-with-fastapi)
+_May 18, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/278050092/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/getting-started-with-fastapi){target=_blank}
 
 <img src="/img/getting-started-with-fastapi.png" width="600" height="337.5">
 
