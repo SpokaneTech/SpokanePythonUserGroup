@@ -16,6 +16,14 @@ h1,
   font-family: "Rotundo";
 }
 
+h3 {
+    font-weight: bold !important;
+}
+
 article img, article iframe {
     border-radius: 4px;
+}
+
+.twemoji {
+    color: #3ec930;
 }

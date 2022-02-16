@@ -5,7 +5,7 @@ description: Learn how to use Kubernetes to run a FastAPI application!
 
 # Kubernetes
 
-_July 15, 2021_ | [Meetup](https://www.meetup.com/Spokane-DevOps-Meetup/events/278709256/) | [Code Samples](https://github.com/python-spokane/kubernetes-and-python)
+_July 15, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Spokane-DevOps-Meetup/events/278709256/) | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/kubernetes-and-python)
 
 As a guest co-host for Spokane's DevOps Meetup, I talked briefly about how to run a FastAPI application using Kubernetes.
 

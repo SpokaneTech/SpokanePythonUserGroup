@@ -4,8 +4,8 @@ Welcome to home of the Spokane Python User Group (_SPUG_), Spokane's premiere lo
 
 All meetings are free, and we encourage everyone to participate and get involved and help grow the Python community. We try to base our meetings from attendee suggestions. If you have an idea for a topic that you would like to see (or present), please let the organizers know!
 
-Our meetups events are managed on [Meetup](https://www.meetup.com/Python-Spokane/).
+Our meetups events are managed on [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/).
 
-Out mascot is "Stan the snake".
+Our mascot is "Stan the Snake":
 
-<img src="/img/stan.jpg">
+<img style="max-width: 400px; max-height: 400px;" src="/img/stan.jpg">

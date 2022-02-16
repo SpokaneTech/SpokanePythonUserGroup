@@ -5,7 +5,7 @@ description: Learn about getting started with MkDocs, customizing the look and f
 
 # Mk’ing spokanepython.com: Static Site Generation with MkDocs
 
-_August 24, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/280103526/) | [Code Samples](https://github.com/python-spokane/static-site-generation-with-mkdocs)
+_August 24, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/280103526/) | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/static-site-generation-with-mkdocs)
 
 <img src="/img/mking-spokanepython-dot-com.jpeg" width="600" height="337.5">
 

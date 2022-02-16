@@ -4,7 +4,7 @@ title: "Pragmatic Python II: Journey to the Pythonic Peak"
 
 # Pragmatic Python II: Journey to the Pythonic Peak
 
-_December 7, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/281821257/) | [Code Samples]()
+_December 7, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/281821257/) | [:fontawesome-brands-github: Code Samples]()
 
 <img src="/img/pragmatic-python-ii-journey-to-the-pythonic-peak.jpeg" width="600" height="337.5">
 

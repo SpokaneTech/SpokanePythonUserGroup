@@ -5,7 +5,7 @@ description: Learn about types and type hinting in Python!
 
 # Typing for Fun and Profit
 
-_June 15, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/278681498/) | [Code Samples](https://github.com/python-spokane/typing-for-fun-and-profit)
+_June 15, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/278681498/) | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/typing-for-fun-and-profit)
 
 <img src="/img/typing-for-fun-and-profit.png" width="600" height="337.5">
 

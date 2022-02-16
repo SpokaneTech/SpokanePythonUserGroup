@@ -6,7 +6,7 @@ description: A visualization-based introduction to machine learning with Python,
 
 # An _Anything but Mundane_ Intro to Machine Learning
 
-_January 18, 2022_ | [Meetup](https://www.meetup.com/Python-Spokane/events/282570621/)
+_January 18, 2022_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/282570621/)
 
 <img src="/img/intro-to-machine-learning.jpg" width="600" height="337.5">
 

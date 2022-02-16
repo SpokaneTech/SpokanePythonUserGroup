@@ -4,7 +4,7 @@ title: "Pragmatic Python: Welcome to the Jungle"
 
 # Pragmatic Python: Welcome to the Jungle
 
-_November 2, 2021_ | [Meetup](https://www.meetup.com/Python-Spokane/events/281578925/) | [Code Samples](https://github.com/python-spokane/journey-to-the-pythonic-peak)
+_November 2, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/281578925/) | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/journey-to-the-pythonic-peak)
 
 <img src="/img/pragmatic-python-welcome-to-the-jungle.jpeg" width="600" height="337.5">
 
