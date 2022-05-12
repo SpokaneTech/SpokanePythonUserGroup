@@ -16,6 +16,7 @@ theme:
     - navigation.instant
     - navigation.expand
     - navigation.sections
+    - navigation.tabs
   plugins:
     - search
     - social
@@ -53,8 +54,6 @@ markdown_extensions:
 
 nav:
   - "Home": "index.md"
-  - "About": "about.md"
-  - "Python Resources": "getting-started.md"
   - "Meetups":
     - "Testing in Python": "meetups/testing-in-python.md"
     - "Pragmatic Python V: All Things Hosting": "meetups/all-things-hosting.md"
@@ -67,6 +66,8 @@ nav:
     - "Kubernetes and Python": "meetups/kubernetes.md"
     - "Typing for Fun and Profit": "meetups/typing-for-fun-and-profit.md"
     - "Getting Started with FastAPI": "meetups/getting-started-with-fastapi.md"
+  - "About": "about.md"
+  - "Python Resources": "resources.md"
 
 extra:
   social:

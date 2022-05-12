@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Spokane Python User Group
 
 ### [Testing in Python](meetups/testing-in-python.md)

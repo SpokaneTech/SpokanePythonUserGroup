@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # About _SPUG_
 
 Welcome to home of the Spokane Python User Group (_SPUG_), Spokane's premiere local Python user group! We have a wide range of topics all related to Python, Web Development, and Open Source technology. We're currently meeting on the **third Tuesday of each month**.
