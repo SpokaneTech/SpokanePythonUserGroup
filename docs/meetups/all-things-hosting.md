@@ -3,9 +3,7 @@ title: All Things Hosting
 description: How to host your Python projects on AWS, Azure, and more!
 ---
 
-### [Pragmatic Python V: All Things Hosting](meetups/all-things-hosting.md)
-
-_February 15, 2022_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/284051006/){target=_blank}
+_March 15, 2022_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/284051006/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/stans-static-site) | [:fontawesome-brands-youtube: Recording](https://youtu.be/kGj_9cUrmRY){target=_blank}
 
 <img src="/img/all-things-hosting.jpg" width="600" height="337.5">
 
