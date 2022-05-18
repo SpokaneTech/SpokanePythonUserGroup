@@ -19,3 +19,7 @@ If code without tests is bad code, then the first step to writing good code is l
 [Full screen slides :fontawesome-solid-arrow-up-right-from-square:](https://python-spokane.github.io/testing-in-python/){target=_blank}
 
 <iframe width="560" height="315" src="https://python-spokane.github.io/testing-in-python/"></iframe>
+
+## Recording
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/L-NX81YvqS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
