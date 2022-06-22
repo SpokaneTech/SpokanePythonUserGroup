@@ -75,3 +75,6 @@ extra:
       link: https://twitter.com/pythonspokane
     - icon: fontawesome/brands/github
       link: https://github.com/python-spokane/
+  analytics:
+    provider: custom
+    property: "spokanepython.com"
