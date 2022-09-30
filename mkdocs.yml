@@ -3,6 +3,7 @@ site_url: https://spokanepython.com/
 site_description: Home of the Spokane Python User Group 🐍
 repo_url: https://github.com/Intellitect-Samples/SpokanePythonUserGroup
 repo_name: SpokanePythonUserGroup
+edit_uri: blob/main/docs/
 
 theme:
   name: material
