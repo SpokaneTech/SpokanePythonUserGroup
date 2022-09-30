@@ -44,6 +44,7 @@ extra_javascript:
 markdown_extensions:
   - attr_list
   - meta
+  - tables
   - pymdownx.highlight
   - pymdownx.superfences
   - toc:
@@ -66,6 +67,7 @@ nav:
     - "Kubernetes and Python": "meetups/kubernetes.md"
     - "Typing for Fun and Profit": "meetups/typing-for-fun-and-profit.md"
     - "Getting Started with FastAPI": "meetups/getting-started-with-fastapi.md"
+  - "Speak 📢": "speak.md"
   - "About": "about.md"
   - "Python Resources": "resources.md"
 

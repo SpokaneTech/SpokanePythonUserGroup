@@ -11,6 +11,11 @@ html {
     scroll-behavior: smooth;
 }
 
+body {
+    --md-default-bg-color: #f6f7f8;
+    background-color: var(--md-default-bg-color);
+}
+
 h1,
 .md-header {
   font-family: "Rotundo";
@@ -24,6 +29,32 @@ article img, article iframe {
     border-radius: 4px;
 }
 
+ul li {
+    margin-bottom: 0px !important;
+}
+
 .twemoji {
     color: #3ec930;
+}
+
+.callout {
+    display: inline-block;
+    border-radius: 8px;
+    background-color: white;
+    font-size: 1rem;
+    padding: 1rem;
+
+    -webkit-box-shadow: 0 0 4px 0 rgba(46,62,72,.12),0 4px 12px 0 rgba(46,62,72,.12);
+    box-shadow: 0 0 4px 0 rgba(46,62,72,.12),0 4px 12px 0 rgba(46,62,72,.12);
+    -webkit-transform: translateY(-1px);
+    transform: translateY(-1px);
+}
+
+.callout p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.callout p + p {
+    margin-top: 8px;
 }

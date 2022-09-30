@@ -5,6 +5,15 @@ hide:
 
 # Spokane Python User Group
 
+<div class="callout">
+  <p>
+    For a limited time, the Spokane Python User Group is paying new speakers up to <strong>$100</strong> to present!
+  </p>
+  <p>
+    <a href="/speak/">Find out more 💸</a>
+  </p>
+</div>
+
 ## **[Testing in Python](meetups/testing-in-python.md)**
 
 _May 17, 2022_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/284979634/){target=_blank} |  [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/testing-in-python){target=_blank} | [:fontawesome-brands-youtube: Recording](https://youtu.be/L-NX81YvqS4){target=_blank}
