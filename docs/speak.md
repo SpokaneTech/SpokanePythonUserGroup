@@ -5,7 +5,14 @@ hide:
 
 # Calling all Spokane Pythonistas!
 
+<div class="callout">
+  <p>
+    Our next meetup is <strong>Tuesday, October 18th</strong> and we are looking for <a href="/speak/#submit-proposal">speakers to present</a>!
+  </p>
+</div>
+
 ## Speak at _SPUG_
+
 Are you thinking of speaking at the Spokane Python User Group?  
 Great! We're looking forward to reading your proposal!  
 
