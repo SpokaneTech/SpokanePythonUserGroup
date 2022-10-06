@@ -57,6 +57,7 @@ markdown_extensions:
 nav:
   - "Home": "index.md"
   - "Meetups":
+    - "Python Meets Radio": "meetups/python-meets-radio.md"
     - "Testing in Python": "meetups/testing-in-python.md"
     - "All Things Hosting": "meetups/all-things-hosting.md"
     - "Adventures in A.I.": "meetups/adventures-in-ai.md"
