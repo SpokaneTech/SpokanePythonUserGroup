@@ -11,9 +11,11 @@ _October 18, 2022_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com
 
 <img src="/img/python-meets-radio.png" width="600" height="337.5">
 
-Wireless signals are all around us, from WiFi and Bluetooth, to airplanes, power meters, and car key fobs, signals are absolutely everywhere. In this talk, we hope to help answer two questions: 1) can I listen to signals around me, and 2) how can I use Python interact with them? We will introduce this topic, hook up our software-defined radios (SDRs), and show how GNU Radio and some Python magic can work together to listen to signals and send your own wireless messages. By the end, you'll have what you need for everything from garage doors to overhead airplanes. [RSVP](https://www.meetup.com/python-spokane/events/288831420/){target=_blank}
+Wireless signals are all around us, from WiFi and Bluetooth, to airplanes, power meters, and car key fobs, signals are absolutely everywhere. In this talk, we hope to help answer two questions: 1) can I listen to signals around me, and 2) how can I use Python interact with them? We will introduce this topic, hook up our software-defined radios (SDRs), and show how GNU Radio and some Python magic can work together to listen to signals and send your own wireless messages. By the end, you'll have what you need for everything from garage doors to overhead airplanes. [RSVP on :fontawesome-brands-meetup: Meetup.](https://www.meetup.com/python-spokane/events/288831420/){target=_blank}
 
-Hosted by Maxwell “ꓘ” Dulin & Jesse Victors
+Hosted by Maxwell “ꓘ” Dulin & Jesse Victors.
+
+This meetup will be both online and in-person. Our hosts will be joining us remotely from the Seattle area. [Join us online on Zoom.](https://us05web.zoom.us/j/88208169333?pwd=emU0VUw5Tkg4S1lRRHR3LzAxNDl1dz09){target=_blank}
 
 ---
 
