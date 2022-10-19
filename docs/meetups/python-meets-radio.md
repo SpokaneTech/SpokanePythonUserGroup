@@ -24,3 +24,19 @@ Maxwell Dulin (also known as Strikeout) loves hacking all things under the sun. 
 ### Jesse Victors
 
 Jesse Victors is a senior security engineer at Security Innovation. His technical interests include web and network security, privacy and anonymity systems, password cracking, and RF attacks. In the evening you can often find him in virtual reality games, fiddling with amateur radio antennas, and pipelining data from orbiting satellites using Python. Jesse has pursued information security since 2014.
+
+## Recording
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Cyc9fid0eac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Links & Tools
+
+- [CubicSDR](https://cubicsdr.com/){target=_blank}: Cross-Platform and Open-Source Software Defined Radio Application
+- [Gqrx SDR](https://gqrx.dk/){target=_blank}: Open source software defined radio
+- [GNU Radio](https://www.gnuradio.org/){target=_blank}: The Free &amp; Open Source Radio Ecosystem
+- [Maxwell's Blog](https://maxwelldulin.com/Blog){target=_blank}
+    - [Scoreboard Hacking Part 1](https://maxwelldulin.com/BlogPost/Scoreboard-Hacking-Signal-Analysis-Part-1){target=_blank}
+    - [Scoreboard Hacking Part 2](https://maxwelldulin.com/BlogPost/Scoreboard-Hacking-Part-2){target=_blank}
+    - [Scoreboard Hacking Part 3](https://maxwelldulin.com/BlogPost/Scoreboard-Hacking-Part-3){target=_blank}
+- [Unnamed Reverse Engineering Podcast](https://unnamedre.com/){target=_blank}
+- [rtl-sdr.com](https://www.rtl-sdr.com/){target=_blank}

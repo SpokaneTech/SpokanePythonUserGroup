@@ -43,6 +43,11 @@ extra_javascript:
   - scripts/termynal.js
 
 markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
   - attr_list
   - meta
   - tables

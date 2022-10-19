@@ -5,9 +5,19 @@ hide:
 
 # Spokane Python User Group
 
+## Coffee & Code
+
+_Every 1^st^ Monday of the month @ 7am_ | [Indaba Coffee](https://www.indabacoffee.com/westcentral){target=_blank} at 1425 W Broadway Ave
+
+<img src="/img/coffee-and-code.png" width="400" height="250">
+
+Grab some coffee and write code, _together_. Every first Monday of the month, local Pythonistas meet at a coffee shop to collaborate on code over hot beverages.
+
+---
+
 ## **[Python Meets Radio](meetups/python-meets-radio.md)**
 
-_October 18, 2022_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/288831420/){target=_blank}
+_October 18, 2022_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/288831420/){target=_blank} | [:fontawesome-brands-youtube: Recording](https://youtu.be/Cyc9fid0eac){target=_blank}
 
 <img src="/img/python-meets-radio.png" width="600" height="337.5">
 
