@@ -5,7 +5,9 @@ hide:
 
 # Spokane Python User Group
 
-## Coffee & Code
+## Upcoming Meetups
+
+### Coffee & Code
 
 _Every 1^st^ Monday of the month @ 7am_ | [Indaba Coffee](https://www.indabacoffee.com/westcentral){target=_blank} at 1425 W Broadway Ave
 
@@ -15,7 +17,21 @@ Grab some coffee and write code, _together_. Every first Monday of the month, lo
 
 ---
 
-## **[Python Meets Radio](meetups/python-meets-radio.md)**
+## Previous Meetups
+
+### **[Computer Vision with Amazon Rekognition](meetups/amazon-rekognition.md)**
+
+_November 15, 2022_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/289367886/){target=_blank} | [:fontawesome-brands-youtube: Recording](https://youtu.be/t7RavPoIesQ){target=_blank}
+
+<img src="/img/amazon-rekognition.jpg" width="600" height="337.5">
+
+Take advantage of computer vision with Python and AWS, no ML skills required! We will dive into the Amazon Rekognition service and see how to use it with Amazon's Python SDK. Amazon Rekognition offers pre-trained and customizable computer vision (CV) capabilities to extract information and insights from your images and videos. We will use image detection and content moderation to identify and determine if an image contains inappropriate or offensive content. Join Stan the Snake as he slithers into Amazon ML with the Python boto3 SDK.
+
+Hosted by Reese Hodge.
+
+---
+
+### **[Python Meets Radio](meetups/python-meets-radio.md)**
 
 _October 18, 2022_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/288831420/){target=_blank} | [:fontawesome-brands-youtube: Recording](https://youtu.be/Cyc9fid0eac){target=_blank}
 
@@ -29,7 +45,7 @@ This meetup will be both online and in-person. Our hosts will be joining us remo
 
 ---
 
-## **[Testing in Python](meetups/testing-in-python.md)**
+### **[Testing in Python](meetups/testing-in-python.md)**
 
 _May 17, 2022_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/284979634/){target=_blank} |  [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/testing-in-python){target=_blank} | [:fontawesome-brands-youtube: Recording](https://youtu.be/L-NX81YvqS4){target=_blank}
 
@@ -42,7 +58,7 @@ If code without tests is bad code, then the first step to writing good code is l
 
 ---
 
-## **[All Things Hosting](meetups/all-things-hosting.md)**
+### **[All Things Hosting](meetups/all-things-hosting.md)**
 
 _March 15, 2022_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/284051006/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/stans-static-site) | [:fontawesome-brands-youtube: Recording](https://youtu.be/kGj_9cUrmRY){target=_blank}
 
@@ -52,7 +68,7 @@ Join us for all things hosting! We'll be discussing how to host your Python proj
 
 ---
 
-## **[Adventures in A.I.](meetups/adventures-in-ai.md)**
+### **[Adventures in A.I.](meetups/adventures-in-ai.md)**
 
 _February 15, 2022_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/283533381/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/adventures-in-ai){target=_blank} | [:fontawesome-brands-youtube: Recording](https://youtu.be/uejLKir8VEk){target=_blank}
 
@@ -62,7 +78,7 @@ After a smashing intro to machine learning in January, this month we'll dive int
 
 ---
 
-## **[Intro to Machine Learning](meetups/intro-to-machine-learning.md)**
+### **[Intro to Machine Learning](meetups/intro-to-machine-learning.md)**
 
 _January 18, 2022_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/282570621/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/intro-to-machine-learning) | [:fontawesome-brands-youtube: Recording](https://youtu.be/m1-AhufKdQ4){target=_blank}
 
@@ -72,7 +88,7 @@ Join us for the third session of our Pragmatic Python series where data analyst 
 
 ---
 
-## **[Journey to the Pythonic Peak](meetups/pragmatic-python-02.md)**
+### **[Journey to the Pythonic Peak](meetups/pragmatic-python-02.md)**
 
 _December 7, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/281821257/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/journey-to-the-pythonic-peak) | [:fontawesome-brands-youtube: Recording](https://youtu.be/d4uuPKZ2Mok){target=_blank}
 
@@ -85,7 +101,7 @@ Bring your computers as we'll be writing code 👨🏻‍💻
 
 ---
 
-## **[Pragmatic Python](meetups/pragmatic-python-01.md)**
+### **[Pragmatic Python](meetups/pragmatic-python-01.md)**
 
 _November 2, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/281578925/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/journey-to-the-pythonic-peak){target=_blank} | [:fontawesome-brands-youtube: Recording](https://youtu.be/KzM_-gky_58){target=_blank}
 
@@ -99,7 +115,7 @@ This month's meetup, "Welcome to the Jungle", will focus on getting started with
 
 ---
 
-## **[Mk’ing spokanepython.com](meetups/static-site-generation.md)**
+### **[Mk’ing spokanepython.com](meetups/static-site-generation.md)**
 
 _August 24, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/280103526/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/static-site-generation-with-mkdocs){target=_blank} | [:fontawesome-brands-youtube: Recording](https://youtu.be/eJVVbZYUYro){target=_blank}
 
@@ -109,7 +125,7 @@ In this month's meetup, we'll explore create documentation using popular static 
 
 ---
 
-## **[Background Task Processing](meetups/background-task-processing.md)**
+### **[Background Task Processing](meetups/background-task-processing.md)**
 
 _July 27, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/279452049/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/background-task-processing){target=_blank} | [:fontawesome-brands-youtube: Recording](https://youtu.be/9mYR8rNmg2A){target=_blank}
 
@@ -119,7 +135,7 @@ Come learn how to do background task processing in Python using popular librarie
 
 ---
 
-## **[Kubernetes and Python](meetups/kubernetes.md)**
+### **[Kubernetes and Python](meetups/kubernetes.md)**
 
 _July 15, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Spokane-DevOps-Meetup/events/278709256/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/kubernetes-and-python){target=_blank} | [:fontawesome-brands-youtube: Recording](https://youtu.be/todSDrCjMl0){target=_blank}
 
@@ -129,7 +145,7 @@ As a guest co-host for Spokane's DevOps Meetup, I talked briefly about how to ru
 
 ---
 
-## **[Typing for Fun and Profit](meetups/typing-for-fun-and-profit.md)**
+### **[Typing for Fun and Profit](meetups/typing-for-fun-and-profit.md)**
 
 _June 15, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/278681498/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/typing-for-fun-and-profit){target=_blank} | [:fontawesome-brands-youtube: Recording](https://youtu.be/OUq_qrf-Ro0){target=_blank}
 
@@ -143,7 +159,7 @@ The goal is you come out the other end of this meetup having answers to all thes
 
 ---
 
-## **[Getting Started with FastAPI](meetups/getting-started-with-fastapi.md)**
+### **[Getting Started with FastAPI](meetups/getting-started-with-fastapi.md)**
 
 _May 18, 2021_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/278050092/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/python-spokane/getting-started-with-fastapi){target=_blank}
 
