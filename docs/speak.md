@@ -7,7 +7,7 @@ hide:
 
 <div class="callout">
   <p>
-    Our next meetup is <strong>Tuesday, October 18th</strong> and we are looking for <a href="/speak/#submit-proposal">speakers to present</a>!
+    We are looking for <a href="/speak/#submit-proposal">speakers to present</a> in 2023!
   </p>
 </div>
 
@@ -33,19 +33,6 @@ Keep in mind that:
  - You can (and are encouraged to!) submit as many talk proposals as you’d like.
 
 Proposals will be reviewed on a rolling basis. **Meetups are every third Tuesday of the month.**
-
-## Get **PAID** 💸
-
-For a limited time, the Spokane Python User Group is paying new speakers up to **_$100_** to present! Payments will be issued upon an approved talk proposal and completion of the talk at a SPUG meetup.
-
-Note: to qualify for payment, this does **not** have to be your first presentation at a meetup or conference, just your first time presenting at SPUG.
-
-| Talk length              | Amount   |
-| ------------------------ | -------- |
-| Lightning (5-10 minutes) | unpaid |
-| Half meetup (30 minutes) | **$50 💵**  |
-| Full meetup (60 minutes) | **$100 💸** |
-
 
 ## Resources
 
