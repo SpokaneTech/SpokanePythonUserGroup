@@ -5,6 +5,11 @@ repo_url: https://github.com/Intellitect-Samples/SpokanePythonUserGroup
 repo_name: SpokanePythonUserGroup
 edit_uri: blob/main/docs/
 
+plugins:
+  - social:
+      cards_font: Rubik
+  - search
+
 theme:
   name: material
   custom_dir: overrides
@@ -18,9 +23,6 @@ theme:
     - navigation.expand
     - navigation.sections
     - navigation.tabs
-  plugins:
-    - search
-    - social
   palette:
     - scheme: default
       primary: green
