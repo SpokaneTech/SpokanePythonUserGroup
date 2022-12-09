@@ -11,7 +11,7 @@ hide:
 
 _January 17, 2023_ | [:fontawesome-brands-meetup: RSVP here](https://www.meetup.com/Python-Spokane/events/290234460/){target=_blank}
 
-<img src="/img/an-evening-of-lightning-talks.jpg" width="400" height="250">
+<img src="/img/an-evening-of-lightning-talks.jpg" width="600" height="337.5">
 
 Come present on the cool projects you're working on! Lightning talks are short (5-15 minute), informal presentations! All attendees, online and in-person, are welcome (and encouraged) to present. Share something fun you learned about Python recently, an interesting story about a project you've worked on, or just some cool code you wrote -- or found!
 
@@ -23,7 +23,7 @@ Snacks, drinks, and **stickers** will be provided.
 
 _Every 1^st^ Monday of the month @ 7am_ | [Indaba Coffee](https://www.indabacoffee.com/westcentral){target=_blank} at 1425 W Broadway Ave
 
-<img src="/img/coffee-and-code.png" width="400" height="250">
+<img src="/img/coffee-and-code.png" width="600" height="337.5">
 
 Grab some coffee and write code, _together_. Every first Monday of the month, local Pythonistas meet at a coffee shop to collaborate on code over hot beverages.
 
