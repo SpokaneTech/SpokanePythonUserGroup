@@ -49,6 +49,10 @@ ul li {
     transform: translateY(-1px);
 }
 
+body[data-md-color-scheme="slate"] .callout {
+    background-color: #1e1f21;
+}
+
 .callout p {
     margin-top: 0px;
     margin-bottom: 0px;
