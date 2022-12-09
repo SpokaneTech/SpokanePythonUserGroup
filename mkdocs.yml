@@ -23,6 +23,7 @@ theme:
     - navigation.expand
     - navigation.sections
     - navigation.tabs
+    - navigation.top
   palette:
     - scheme: default
       primary: green
