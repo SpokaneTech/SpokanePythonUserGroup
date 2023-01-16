@@ -29,6 +29,7 @@ hide:
 - [Django — Using Azure blob storage to handle static & media assets](https://medium.com/@DawlysD/django-using-azure-blob-storage-to-handle-static-media-assets-from-scratch-90cbbc7d56be){target=_blank}
 - [When a CTO Decides to Make a Wedding Website](https://buildwithdjango.com/blog/post/wedding-website/){target=_blank}
 - [Contributing to classiness (in Django)](https://www.b-list.org/weblog/2019/mar/04/class/){target=_blank}
+- [Django subquery with aggregate](https://stackoverflow.com/a/56122354){target=_blank}
 
 ## Testing
 - [“Don’t Mock What You Don’t Own” in 5 Minutes](https://hynek.me/articles/what-to-mock-in-5-mins/){target=_blank}
