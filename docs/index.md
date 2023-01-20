@@ -5,19 +5,13 @@ hide:
 
 # Spokane Python User Group
 
+<div class="callout">
+  <p>
+    🚨 We are looking for <a href="/speak/#submit-proposal">speakers to present</a> in 2023! 
+  </p>
+</div>
+
 ## Upcoming Meetups
-
-### [An Evening of Lightning Talks](meetups/an-evening-of-lightning-talks.md)
-
-_January 17, 2023_ | [:fontawesome-brands-meetup: RSVP here](https://www.meetup.com/Python-Spokane/events/290234460/){target=_blank}
-
-<img src="/img/an-evening-of-lightning-talks.jpg" width="600" height="337.5">
-
-Come present on the cool projects you're working on! Lightning talks are short (5-15 minute), informal presentations! All attendees, online and in-person, are welcome (and encouraged) to present. Share something fun you learned about Python recently, an interesting story about a project you've worked on, or just some cool code you wrote -- or found!
-
-Snacks, drinks, and **stickers** will be provided.
-
----
 
 ### Coffee & Code
 
@@ -29,7 +23,30 @@ Grab some coffee and write code, _together_. Every first Monday of the month, lo
 
 ---
 
+### February Meetup
+
+_February 16, 2023 @ 6pm_
+
+TBA
+
+---
+
 ## Previous Meetups
+
+### [An Evening of Lightning Talks](meetups/an-evening-of-lightning-talks.md)
+
+_January 17, 2023_ | [:fontawesome-brands-meetup: RSVP here](https://www.meetup.com/Python-Spokane/events/290234460/){target=_blank}
+
+<img src="/img/an-evening-of-lightning-talks.jpg" width="600" height="337.5" />
+
+<img src="/img/an-evening-of-lightning-talks-event-1.jpg" width="300" /><img src="/img/an-evening-of-lightning-talks-event-2.jpg" width="300" />
+
+
+Come present on the cool projects you're working on! Lightning talks are short (5-15 minute), informal presentations! All attendees, online and in-person, are welcome (and encouraged) to present. Share something fun you learned about Python recently, an interesting story about a project you've worked on, or just some cool code you wrote -- or found!
+
+Snacks, drinks, and **stickers** will be provided.
+
+---
 
 ### **[Computer Vision with Amazon Rekognition](meetups/amazon-rekognition.md)**
 

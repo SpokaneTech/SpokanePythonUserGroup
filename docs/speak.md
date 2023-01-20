@@ -7,7 +7,7 @@ hide:
 
 <div class="callout">
   <p>
-    We are looking for <a href="/speak/#submit-proposal">speakers to present</a> in 2023!
+    🚨 We are looking for <a href="/speak/#submit-proposal">speakers to present</a> in 2023! 
   </p>
 </div>
 
@@ -17,7 +17,6 @@ Are you thinking of speaking at the Spokane Python User Group?
 Great! We're looking forward to reading your proposal!  
 
 Never considered speaking at a meetup? We think you should! We love proposals from:
- 
 
  - People who've never spoken before (we'll help get you prepared!)
  - People new to Python
@@ -25,12 +24,7 @@ Never considered speaking at a meetup? We think you should! We love proposals fr
  - People who use Python professionally
  - People who want to talk about something that isn't specifically Python
 
-What adventure are you having with Python? Did you build something  you're excited about? Did you learn something neat? What interesting  problem have you solved recently? What do you wish someone would have  told you years ago? Talks can be about anything that someone in the  Python community would be interested in hearing about.
-
-Keep in mind that:
-
- - Talks do not need to be about Python, but your talk is more likely to be selected if it has some relevance to the Python community.
- - You can (and are encouraged to!) submit as many talk proposals as you’d like.
+What adventure are you having with Python? Did you build something  you're excited about? Did you learn something neat? What interesting problem have you solved recently? What do you wish someone would have told you years ago? Talks can be about anything that someone in the Python community may be interested in hearing about. You can (and are encouraged to!) submit as many talk proposals as you’d like!
 
 Proposals will be reviewed on a rolling basis. **Meetups are every third Tuesday of the month.**
 
@@ -42,10 +36,10 @@ Allison Kaptur has compiled a list of PyCon talk proposals to help  potential sp
  
 Nina Zakharenko has written a comprehensive guide on how to propose, prepare, and give technical talks: [Ultimate Guide to Memorable Tech Talks](https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b){target=_blank}
 
-<small>_CFP inspired by PyCascades' CFP_</small>
-
 ## Submit proposal
 
 [Form link :link:](https://forms.microsoft.com/r/gSuHPcB9Ap){target=_blank}
 
-<iframe width="100%" height="600px" src="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=BxkyN6UUkEOYfewMZsZVzYm1-mBaFIlGkkbcXq6vxJdUMDE4M0I0UEFXVzBGSjc0VFZTMjJSNEJQQy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<iframe width="100%" height="800px" src="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=BxkyN6UUkEOYfewMZsZVzYm1-mBaFIlGkkbcXq6vxJdUMDE4M0I0UEFXVzBGSjc0VFZTMjJSNEJQQy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+<small>_CFP inspired by PyCascades' CFP_</small>
