@@ -13,7 +13,7 @@
 
 ### Dependencies 
 
-Create virtual environment
+Create a virtual environment
 
 ```shell
 python -m venv .venv
@@ -21,11 +21,22 @@ source .venv/bin/activate
 pip-sync
 ```
 
-Update `requirements.txt`
+Install required Python packages
 
 ```shell
 python -m pip install pip-tools
-pip-compile --resolver=backtracking
 pip-sync
 ```
 
+Update `requirements.txt`
+
+```shell
+# python -m pip install pip-tools
+pip-compile --resolver=backtracking
+```
+
+Install [CairoSVG](https://cairosvg.org/documentation/#installation) requirements
+
+```shell
+sudo apt-get install -y libcairo2-dev libfreetype6-dev libffi-dev libjpeg-dev libpng-dev libz-dev
+```
