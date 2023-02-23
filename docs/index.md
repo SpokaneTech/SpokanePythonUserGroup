@@ -13,7 +13,19 @@ hide:
 
 ## Upcoming Meetups
 
-### GitHub Actions and Robot Overlords
+### Coffee & Code
+
+_Every 1^st^ Monday of the month @ 7am_ | [Indaba Coffee](https://www.indabacoffee.com/westcentral){target=_blank} at 1425 W Broadway Ave
+
+<img src="/img/coffee-and-code.png" width="600" height="337.5">
+
+Grab some coffee and write code, _together_. Every first Monday of the month, local Pythonistas meet at a coffee shop to collaborate on code over hot beverages.
+
+---
+
+## Previous Meetups
+
+### [GitHub Actions and Robot Overlords](meetups/github-actions-and-robot-overlords.md)
 
 _February 21, 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/291276933/){target=_blank}
 
@@ -32,18 +44,6 @@ After both of our wonderful presentations, we'll have some time for open worksho
 Length: 1 hour
 
 ---
-
-### Coffee & Code
-
-_Every 1^st^ Monday of the month @ 7am_ | [Indaba Coffee](https://www.indabacoffee.com/westcentral){target=_blank} at 1425 W Broadway Ave
-
-<img src="/img/coffee-and-code.png" width="600" height="337.5">
-
-Grab some coffee and write code, _together_. Every first Monday of the month, local Pythonistas meet at a coffee shop to collaborate on code over hot beverages.
-
----
-
-## Previous Meetups
 
 ### [An Evening of Lightning Talks](meetups/an-evening-of-lightning-talks.md)
 

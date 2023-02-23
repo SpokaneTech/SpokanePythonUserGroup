@@ -15,6 +15,10 @@ Join us this February for two presentations and open workshop!
 David will show us setting up a GitHub repo with GitHub actions to run code quality automation such as linting and unit tests!
 Length: 20 minutes
 
+[Slides](https://docs.google.com/presentation/d/1My-lnortnxB4sQH_3JBr0tJ1lLE2JjRQi0tCF5E_O8k/edit#slide=id.p){target=_blank}
+
+[:fontawesome-brands-github: Code Samples](https://github.com/davidslusser/actions){target=_blank}
+
 ## Welcoming Our New Robot Overlords
 Join Clayton (Data Analyst, AI Enthusiast) on an explorative jaunt through Azure’s Cognitive Services in a demo designed for novices by a certified Azure Data Science Associate who has led the development of ML models in the Financial Tech and Insurance spaces. Warning: may contain pythons.
 Length: 40 minutes
