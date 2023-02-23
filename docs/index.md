@@ -23,6 +23,14 @@ Grab some coffee and write code, _together_. Every first Monday of the month, lo
 
 ---
 
+### **March Meetup**
+
+_March 21, 2023_
+
+TBD
+
+---
+
 ## Previous Meetups
 
 ### [GitHub Actions and Robot Overlords](meetups/github-actions-and-robot-overlords.md)
