@@ -13,4 +13,6 @@ Our events are managed on [:fontawesome-brands-meetup: Meetup](https://www.meetu
 
 Our mascot is "Stan the Snake", who was introduced in a [:fontawesome-brands-youtube: talk at PyCascades](https://youtu.be/ucXfGR2DTos){target=_blank}.
 
+Our Code of Conduct can be found here: [Code of Conduct](code-of-conduct.md).
+
 <img style="max-width: 400px; max-height: 400px;" src="/img/stan.jpg">
