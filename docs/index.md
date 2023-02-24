@@ -33,11 +33,14 @@ TBD
 
 ## Previous Meetups
 
-### [GitHub Actions and Robot Overlords](meetups/github-actions-and-robot-overlords.md)
+### [GitHub Actions and Robot Overlords](meetups/github-`actions-and-robot-overlords.md)
 
 _February 21, 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/291276933/){target=_blank}
 
 <img src="/img/github-actions-and-robot-overlords.jpg" width="600" height="337.5">
+
+<img src="/img/github-actions-and-robot-overlords-event.jpg" width="300" />
+
 
 **GitHub Actions for Code Qulity**
 David will show us setting up a GitHub repo with GitHub actions to run code quality automation such as linting and unit tests!
