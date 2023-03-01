@@ -11,9 +11,26 @@ All meetings are free, and we encourage everyone to participate and get involved
 
 Our events are managed on [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/){target=_blank}.
 
-Our Code of Conduct can be found here: [Code of Conduct](code-of-conduct.md).
+## Code of Conduct
 
-Our COVID-19 policy can be found here: [COVID-19 policy](covid-policy.md).
+Our Code of Conduct follows the Python Software Foundation's Code of Conduct, found here: [https://www.python.org/psf/conduct/](https://www.python.org/psf/conduct/){target=_blank}.
+
+A dedicated page to the code of conduct can be found [here](code-of-conduct.md).
+
+## COVID-19 Policy
+
+Our COVID-19 policy follows Washington state and the city of Spokane rules and recommendations.
+
+For up to date guidance on Washington state guidelines, please visit:
+
+- [https://www.lni.wa.gov/agency/outreach/coronavirus/requirements-and-guidance-for-preventing-covid-19](https://www.lni.wa.gov/agency/outreach/coronavirus/requirements-and-guidance-for-preventing-covid-19){target=_blank}
+- [https://www.lni.wa.gov/agency/outreach/coronavirus-covid-19-worker-face-covering-and-mask-requirements-questions](https://www.lni.wa.gov/agency/outreach/coronavirus-covid-19-worker-face-covering-and-mask-requirements-questions){target=_blank}
+
+Currently, masks are **not required** for in-person events.
+
+A dedicated page to the COVID-19 policy can be found [here](covid-policy.md).
+
+## Mascot
 
 Our mascot is "Stan the Snake", who was introduced in a [:fontawesome-brands-youtube: talk at PyCascades](https://youtu.be/ucXfGR2DTos){target=_blank}.
 
