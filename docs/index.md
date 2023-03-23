@@ -13,9 +13,21 @@ hide:
 
 ## Upcoming Meetups
 
+### Coffee & Code
+
+_Every 1^st^ Monday of the month @ 7am_ | [Indaba Coffee](https://www.indabacoffee.com/westcentral){target=_blank} at 1425 W Broadway Ave
+
+<img src="/img/coffee-and-code.png" width="600" height="337.5">
+
+Grab some coffee and write code, _together_. Every first Monday of the month, local Pythonistas meet at a coffee shop to collaborate on code over hot beverages.
+
+---
+
+## Previous Meetups
+
 ### **[MicroPython & Embedded Hardware](meetups/micropython-and-embedded-hardware.md)**
 
-_March 21, 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/291974983/){target=_blank} | [:fontawesome-brands-youtube: Stream](https://www.youtube.com/watch?v=2OODK438V00){target=_blank}
+_March 21, 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/291974983/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/simple-x89/pyBoard){target=_blank} | [:fontawesome-brands-youtube: Stream](https://www.youtube.com/watch?v=2OODK438V00){target=_blank}
 
 <img src="/img/micropython-and-embedded-hardware.png" width="600" height="337.5">
 
@@ -30,18 +42,6 @@ MicroPython is a lean and efficient implementation of the Python 3 programming l
 MicroPython aims to be as compatible with normal Python as possible to allow you to transfer code with ease from the desktop to a microcontroller or embedded system.
 
 ---
-
-### Coffee & Code
-
-_Every 1^st^ Monday of the month @ 7am_ | [Indaba Coffee](https://www.indabacoffee.com/westcentral){target=_blank} at 1425 W Broadway Ave
-
-<img src="/img/coffee-and-code.png" width="600" height="337.5">
-
-Grab some coffee and write code, _together_. Every first Monday of the month, local Pythonistas meet at a coffee shop to collaborate on code over hot beverages.
-
----
-
-## Previous Meetups
 
 ### [GitHub Actions and Robot Overlords](meetups/github-actions-and-robot-overlords.md)
 
