@@ -11,6 +11,8 @@ All meetings are free, and we encourage everyone to participate and get involved
 
 Our events are managed on [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/){target=_blank}.
 
+[Join our new Discord server! :fontawesome-brands-discord:](https://discord.gg/uhm5PtabEU){target=_blank}.
+
 ## Code of Conduct
 
 Our Code of Conduct follows the Python Software Foundation's Code of Conduct, found here: [https://www.python.org/psf/conduct/](https://www.python.org/psf/conduct/){target=_blank}.

@@ -37,6 +37,10 @@ ul li {
     color: #3ec930;
 }
 
+.discord {
+    color: #7289da !important;
+}
+
 .callout {
     display: inline-block;
     border-radius: 8px;

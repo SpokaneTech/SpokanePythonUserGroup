@@ -24,6 +24,7 @@ theme:
     - navigation.sections
     - navigation.tabs
     - navigation.top
+    - header.autohide
   palette:
     - scheme: default
       primary: green
