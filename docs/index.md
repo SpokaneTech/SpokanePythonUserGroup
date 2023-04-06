@@ -13,6 +13,24 @@ hide:
 
 ## Upcoming Meetups
 
+### **[Getting Started with Django](meetups/getting-started-with-django.md)**
+
+_April, 18 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/292558352/){target=_blank} | [:fontawesome-brands-youtube: Stream](https://www.youtube.com/watch?v=2OODK438V00){target=_blank}
+
+<img src="/img/getting-started-with-django.jpg" width="600" height="337.5">
+
+Are you new to web development and curious about Django? This meetup is for you! In this session, we'll cover the basics of Django, a high-level Python web framework that follows the batteries-included philosophy. This means that Django comes with a lot of out-of-the-box features that can help you build web applications quickly and efficiently, without having to reinvent the wheel.
+
+We'll go over the main components of a Django project, such as models, views, templates, and URLs, and see how they work together to create a dynamic website. We'll also explore some of the most useful tools and libraries that come with Django, such as the admin interface, the ORM, the forms framework, and the authentication system.
+
+By the end of the session, you'll have a solid understanding of Django's core concepts and be ready to start building your own web applications with confidence.
+
+All skill levels are welcome, and no prior experience with Django is required, although some basic knowledge of Python is recommended.
+
+Join us and discover the power of Django!
+
+---
+
 ### Coffee & Code
 
 _Every 1^st^ Monday of the month @ 7am_ | [Indaba Coffee](https://www.indabacoffee.com/westcentral){target=_blank} at 1425 W Broadway Ave
@@ -27,7 +45,7 @@ Grab some coffee and write code, _together_. Every first Monday of the month, lo
 
 ### **[MicroPython & Embedded Hardware](meetups/micropython-and-embedded-hardware.md)**
 
-_March 21, 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/291974983/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/simple-x89/pyBoard){target=_blank} | [:fontawesome-brands-youtube: Stream](https://www.youtube.com/watch?v=2OODK438V00){target=_blank}
+_March 21, 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/291974983/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/simple-x89/pyBoard){target=_blank} | [:fontawesome-brands-youtube: Recording](https://www.youtube.com/watch?v=2OODK438V00){target=_blank}
 
 <img src="/img/micropython-and-embedded-hardware.png" width="600" height="337.5">
 
