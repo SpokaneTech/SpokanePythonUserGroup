@@ -49,7 +49,7 @@ mkdocs-material-extensions==1.1.1
     # via mkdocs-material
 packaging==23.0
     # via mkdocs
-pillow==9.4.0
+pillow==9.5.0
     # via
     #   -r requirements.in
     #   cairosvg

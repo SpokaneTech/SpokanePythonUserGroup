@@ -1,4 +1,4 @@
 CairoSVG==2.7.0
 mkdocs-material==9.1.9
 mkdocs==1.4.2
-Pillow==9.4.0
+Pillow==9.5.0
