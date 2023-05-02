@@ -18,3 +18,10 @@ By the end of the session, you'll have a solid understanding of Django's core co
 All skill levels are welcome, and no prior experience with Django is required, although some basic knowledge of Python is recommended.
 
 Join us and discover the power of Django!
+
+## Slides
+
+[Full screen slides :fontawesome-solid-arrow-up-right-from-square:](https://python-spokane.github.io/testing-in-python/){target=_blank}
+
+<iframe width="560" height="315" src="https://python-spokane.github.io/getting-started-with-django/"></iframe>
+
