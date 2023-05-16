@@ -13,6 +13,34 @@ hide:
 
 ## Upcoming Meetups
 
+### [Python Project Power-Up 💪](meetups/python-project-powerup.md)
+
+_May, 16 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/lplxbtyfchbvb/){target=_blank} | [:fontawesome-brands-youtube: Stream](https://www.youtube.com/live/6lFztKize8A?feature=share){target=_blank}
+
+<img src="/img/python-project-powerup.jpg" width="600" height="337.5">
+
+Join us for a **Python Project Power-Up** meetup where we dive deep into the realm of configuring Python projects and creating an effective repository structure. Whether you're a beginner or an experienced Python developer, this event is designed to enhance your skills and optimize your project organization.
+
+During this meetup, we'll explore the best practices and industry standards for configuring Python projects, including virtual environments, dependency management, and project tools. Additionally, we'll delve into the importance of establishing a well-organized repository structure, enabling collaboration, version control, and maintainability.
+
+This meetup is an excellent opportunity to network with fellow Python enthusiasts, exchange ideas, and gain valuable insights from the community. Whether you're working on personal projects or part of a team, attending this event will empower you to elevate your Python development skills and build more robust, maintainable projects.
+
+Don't miss out on this chance to level up your Python project configuration and repository structure expertise.
+
+---
+
+### Coffee & Code
+
+_Every 1^st^ Monday of the month @ 7am_ | [Indaba Coffeef](https://www.indabacoffee.com/westcentral){target=_blank} at 1425 W Broadway Ave
+
+<img src="/img/coffee-and-code.png" width="600" height="337.5">
+
+Grab some coffee and write code, _together_. Every first Monday of the month, local Pythonistas meet at a coffee shop to collaborate on code over hot beverages.
+
+---
+
+## Previous Meetups
+
 ### **[Getting Started with Django](meetups/getting-started-with-django.md)**
 
 _April, 18 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/292558352/){target=_blank} | [:fontawesome-brands-youtube: Stream](https://www.youtube.com/live/Y_VEkeOsdYI?feature=share){target=_blank}
@@ -28,20 +56,6 @@ By the end of the session, you'll have a solid understanding of Django's core co
 All skill levels are welcome, and no prior experience with Django is required, although some basic knowledge of Python is recommended.
 
 Join us and discover the power of Django!
-
----
-
-### Coffee & Code
-
-_Every 1^st^ Monday of the month @ 7am_ | [Indaba Coffee](https://www.indabacoffee.com/westcentral){target=_blank} at 1425 W Broadway Ave
-
-<img src="/img/coffee-and-code.png" width="600" height="337.5">
-
-Grab some coffee and write code, _together_. Every first Monday of the month, local Pythonistas meet at a coffee shop to collaborate on code over hot beverages.
-
----
-
-## Previous Meetups
 
 ### **[MicroPython & Embedded Hardware](meetups/micropython-and-embedded-hardware.md)**
 

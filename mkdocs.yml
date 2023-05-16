@@ -66,6 +66,7 @@ markdown_extensions:
 nav:
   - "Home": "index.md"
   - "Meetups":
+    - "Python Project Power-Up 💪": "meetups/python-project-powerup.md"
     - "Getting Started with Django": "meetups/getting-started-with-django.md"
     - "MicroPyton & Embedded Hardware": "meetups/micropython-and-embedded-hardware.md"
     - "GitHub Actions and Robot Overlords": "meetups/github-actions-and-robot-overlords.md"
