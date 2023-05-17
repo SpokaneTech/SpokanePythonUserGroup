@@ -25,3 +25,7 @@ Join us and discover the power of Django!
 
 <iframe width="560" height="315" src="https://python-spokane.github.io/getting-started-with-django/"></iframe>
 
+
+## Recording
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Y_VEkeOsdYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

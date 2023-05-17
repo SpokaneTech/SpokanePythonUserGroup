@@ -15,7 +15,7 @@ Join us this February for two presentations and open workshop!
 David will show us setting up a GitHub repo with GitHub actions to run code quality automation such as linting and unit tests!
 Length: 20 minutes
 
-[Slides](https://docs.google.com/presentation/d/1My-lnortnxB4sQH_3JBr0tJ1lLE2JjRQi0tCF5E_O8k/edit#slide=id.p){target=_blank}
+[Slides :octicons-link-external-16:](https://docs.google.com/presentation/d/1My-lnortnxB4sQH_3JBr0tJ1lLE2JjRQi0tCF5E_O8k/edit#slide=id.p){target=_blank}
 
 [:fontawesome-brands-github: Code Samples](https://github.com/davidslusser/actions){target=_blank}
 

@@ -18,3 +18,11 @@ This meetup is an excellent opportunity to network with fellow Python enthusiast
 Don't miss out on this chance to level up your Python project configuration and repository structure expertise.
 
 **In-person and online**
+
+## Slides
+
+[Slides :octicons-link-external-16:](https://docs.google.com/presentation/d/1My-lnortnxB4sQH_3JBr0tJ1lLE2JjRQi0tCF5E_O8k/edit#slide=id.p){target=_blank}
+
+## Recording
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/m1-AhufKdQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
