@@ -13,7 +13,7 @@ This presentation will focus on Streamlit, an open-source app framework for crea
 
 We'll walk through the process of creating and hosting a Streamlit web app for an existing machine learning project focused on video game industry patterns.
 
-**In-person and online**
+Hosted by [Corey Farmer](https://github.com/MagnusGrave){target=_blank}. **In-person and online.**
 
 
 ## Slides
