@@ -1,19 +1,9 @@
 ---
-hide:
-  - navigation
+title: Python Project Power-Up 💪
+description: Meetup where we dive deep into the realm of configuring Python projects and creating an effective repository structure
 ---
 
-# Spokane Python User Group
-
-<div class="callout">
-  <p>
-    🚨 We are looking for <a href="/speak/#submit-proposal">speakers to present</a> in 2023! 
-  </p>
-</div>
-
-## Upcoming Meetups
-
-### June Meetup
+# Streamlit Deep Dive
 
 _June, 20 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/293590941/){target=_blank} | [:fontawesome-brands-youtube: Stream](https://youtube.com/live/0vqxzOwgaVQ?feature=share){target=_blank}
 
@@ -26,16 +16,10 @@ We'll walk through the process of creating and hosting a Streamlit web app for a
 **In-person and online**
 
 
-### Coffee & Code
+## Slides
 
-_Every 1^st^ Monday of the month @ 7am_ | [Indaba Coffee on Broadway Ave](https://www.indabacoffee.com/broadway){target=_blank}
+Slides will be added here after the event.
 
-<img src="/img/coffee-and-code.png" width="600" height="337.5">
+## Recording
 
-Grab some coffee and write code, _together_. Every first Monday of the month, local Pythonistas meet at a coffee shop to collaborate on code over hot beverages.
-
----
-
-## Previous Meetups
-
-You can find our previous meetups [here](meetups/python-project-powerup).
+Recording will be added here after the event.
