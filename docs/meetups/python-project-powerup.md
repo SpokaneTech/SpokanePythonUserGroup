@@ -21,7 +21,7 @@ Don't miss out on this chance to level up your Python project configuration and 
 
 ## Slides
 
-[Slides :octicons-link-external-16:](https://docs.google.com/presentation/d/1My-lnortnxB4sQH_3JBr0tJ1lLE2JjRQi0tCF5E_O8k/edit#slide=id.p){target=_blank}
+[Slides :octicons-link-external-16:](https://docs.google.com/presentation/d/19P7EqaOixhD-kT75zvkaKqJ7Ufi1WMxOu8whHQ5nubY/edit?usp=sharing){target=_blank}
 
 ## Recording
 
