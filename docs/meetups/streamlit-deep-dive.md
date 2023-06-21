@@ -5,7 +5,7 @@ description: Meetup where we dive deep into the realm of configuring Python proj
 
 # Streamlit Deep Dive
 
-_June, 20 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/293590941/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/MagnusGrave/lancer-art-frontend){target=_blank} | [:fontawesome-brands-youtube: Stream](https://youtube.com/live/0vqxzOwgaVQ?feature=share){target=_blank}
+_June, 20 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/293590941/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/MagnusGrave/lancer-art-frontend){target=_blank} | [:fontawesome-brands-youtube: Recording](https://youtu.be/IadhNCd0p8c){target=_blank}
 
 
 
@@ -17,13 +17,14 @@ We'll walk through the process of creating and hosting a Streamlit web app. The 
 
 Hosted by [Corey Farmer](https://github.com/MagnusGrave){target=_blank}.
 
-**In-person and online.** [:fontawesome-brands-youtube: Stream](https://youtube.com/live/0vqxzOwgaVQ?feature=share){target=_blank}
+**In-person and online.** [:fontawesome-brands-youtube: Recording](https://youtu.be/IadhNCd0p8c){target=_blank}
 
-
-## Slides
-
-Slides will be added here after the event.
 
 ## Recording
 
-Recording will be added here after the event.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IadhNCd0p8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Resources
+- [Streamlit](https://streamlit.io/){target=_blank}
+- [Lancer Streamlit app](https://lancer-unofficial.streamlit.app/){target=_blank}
+- [Lancer](https://massifpress.com/lancer){target=_blank}

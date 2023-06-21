@@ -5,7 +5,7 @@ description: Meetup where we dive deep into the realm of configuring Python proj
 
 # Python Project Power-Up 💪
 
-_May, 16 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/lplxbtyfchbvb/){target=_blank} | [:fontawesome-brands-youtube: Stream](https://www.youtube.com/live/6lFztKize8A?feature=share){target=_blank}
+_May, 16 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/lplxbtyfchbvb/){target=_blank} | [:fontawesome-brands-youtube: Recording](https://www.youtube.com/live/6lFztKize8A?feature=share){target=_blank}
 
 <img src="/img/python-project-powerup.jpg" width="600" height="337.5">
 

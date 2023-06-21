@@ -4,7 +4,7 @@ title: "MicroPython & Embedded Hardware"
 
 # MicroPython & Embedded Hardware
 
-_March 21, 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/291974983/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/simple-x89/pyBoard){target=_blank} | [:fontawesome-brands-youtube: Stream](https://www.youtube.com/watch?v=2OODK438V00){target=_blank}
+_March 21, 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/291974983/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/simple-x89/pyBoard){target=_blank} | [:fontawesome-brands-youtube: Recording](https://www.youtube.com/watch?v=2OODK438V00){target=_blank}
 
 <img src="/img/micropython-and-embedded-hardware.png" width="600" height="337.5">
 

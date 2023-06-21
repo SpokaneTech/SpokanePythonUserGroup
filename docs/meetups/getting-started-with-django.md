@@ -5,7 +5,7 @@ description: Learn the basics of Django, a high-level Python web framework that 
 
 # Getting Started with Django
 
-_April, 18 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/292558352/){target=_blank} | [:fontawesome-brands-youtube: Stream](https://www.youtube.com/live/Y_VEkeOsdYI?feature=share){target=_blank}
+_April, 18 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/events/292558352/){target=_blank} | [:fontawesome-brands-youtube: Recording](https://www.youtube.com/live/Y_VEkeOsdYI?feature=share){target=_blank}
 
 <img src="/img/getting-started-with-django.jpg" width="600" height="337.5">
 
