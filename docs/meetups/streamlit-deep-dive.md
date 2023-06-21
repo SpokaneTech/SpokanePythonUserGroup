@@ -5,7 +5,9 @@ description: Meetup where we dive deep into the realm of configuring Python proj
 
 # Streamlit Deep Dive
 
-_June, 20 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/293590941/){target=_blank} | [:fontawesome-brands-youtube: Stream](https://youtube.com/live/0vqxzOwgaVQ?feature=share){target=_blank}
+_June, 20 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/293590941/){target=_blank} | [:fontawesome-brands-github: Code Samples](https://github.com/MagnusGrave/lancer-art-frontend){target=_blank} | [:fontawesome-brands-youtube: Stream](https://youtube.com/live/0vqxzOwgaVQ?feature=share){target=_blank}
+
+
 
 <img src="/img/streamlit-deep-dive.png" width="600" height="337.5">
 
