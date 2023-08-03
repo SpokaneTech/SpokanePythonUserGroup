@@ -15,7 +15,7 @@ hide:
 
 ### Coffee & Code
 
-~~_Every 1^st^ Monday of the month @ 7am_~~ The **2nd** Monday of the month @ 7 am
+_Every 1^st^ Monday of the month @ 7am_
 
 [Indaba Coffee on Broadway Ave](https://www.indabacoffee.com/broadway){target=_blank}
 
@@ -27,13 +27,11 @@ We will return to meeting the first Monday of the month in August.
 
 ### July Meetup
 
-_July, 18 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/dwhxdtyfckbxb/){target=_blank}
+_August, 15 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/dwhxdtyfckbxb/){target=_blank}
 
 <img src="/img/spug.png" width="600" height="337.5">
 
-Join us for our July meetup!
-
-The plan is for this meetup to be an Evening of Lightning Talks, Part 2
+Join us for our next meetup!
 
 ---
 
