@@ -8,7 +8,7 @@ cairocffi==1.4.0
     # via cairosvg
 cairosvg==2.7.0
     # via -r requirements.in
-certifi==2022.12.7
+certifi==2023.7.22
     # via requests
 cffi==1.15.1
     # via cairocffi
