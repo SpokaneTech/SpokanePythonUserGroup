@@ -49,6 +49,7 @@ _September 19, 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.c
 <img src="/img/c-extensions.png" width="600" height="337.5">
 
 In Python, developers have the option of writing subroutines in C and calling those functions directly from Python code. This results in significant speed improvements for computationally intensive tasks. At this month's meetup, we will be going over how we can write, compile, debug, and deploy C extensions for Python applications.
+Join us for our next meetup!
 
 ---
 
