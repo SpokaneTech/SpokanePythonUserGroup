@@ -10,7 +10,7 @@ beautifulsoup4==4.12.2
     # via readtime
 cairocffi==1.6.1
     # via cairosvg
-cairosvg==2.7.0
+cairosvg==2.7.1
     # via -r requirements.in
 certifi==2023.7.22
     # via requests
