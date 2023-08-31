@@ -1,7 +1,20 @@
 ---
 hide:
   - navigation
+  - title
 ---
+
+<!-- Hide H1, it's already shown in the navbar -->
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+
+  #upcoming-meetups {
+    margin-top: 0px;
+  }
+</style>
 
 # Spokane Python User Group
 
@@ -15,28 +28,30 @@ hide:
 
 ### Coffee & Code
 
-~~_Every 1^st^ Monday of the month @ 7am_~~ The **2nd** Monday of the month @ 7 am
+The **second** Monday of the month at 7 AM
 
 [Indaba Coffee on Broadway Ave](https://www.indabacoffee.com/broadway){target=_blank}
 
 <img src="/img/coffee-and-code.png" width="600" height="337.5">
 
-Grab some coffee and write code, _together_. ~~Every first Monday of the month~~ On the **second Monday of July**, local Pythonistas meet at a coffee shop to collaborate on code over hot beverages.
+Grab some coffee and write code, _together_. Note: we are meeting on the **second Monday** of the month due to a holiday on the first Monday in September.
 
-We will return to meeting the first Monday of the month in August.
+<div class="callout">
+  <p>
+    🚨 We will return to meeting the first Monday of the month in October.
+  </p>
+</div>
 
-### July Meetup
+### [Python C Extensions](/docs/meetups/c-extensions.md)
 
-_July, 18 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/dwhxdtyfckbxb/){target=_blank}
+_September 19, 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/295678510/){target=_blank} | [:fontawesome-brands-youtube: Stream](https://youtube.com/live/hPjw7UlcDsc?feature=share){target=_blank}
 
-<img src="/img/spug.png" width="600" height="337.5">
+<img src="/img/c-extensions.png" width="600" height="337.5">
 
-Join us for our July meetup!
-
-The plan is for this meetup to be an Evening of Lightning Talks, Part 2
+In Python, developers have the option of writing subroutines in C and calling those functions directly from Python code. This results in significant speed improvements for computationally intensive tasks. At this month's meetup, we will be going over how we can write, compile, debug, and deploy C extensions for Python applications.
 
 ---
 
 ## Previous Meetups
 
-You can find our previous meetups [here](meetups/streamlit-deep-dive).
+You can find our previous meetups [here](meetups/django-201.md).

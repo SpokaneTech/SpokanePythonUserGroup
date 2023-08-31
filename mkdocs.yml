@@ -7,7 +7,8 @@ edit_uri: blob/main/docs/
 
 plugins:
   - social:
-      cards_font: Rubik
+      cards_layout_options:
+        font_family: Rubik
   - search
 
 theme:
@@ -66,6 +67,8 @@ markdown_extensions:
 nav:
   - "Home": "index.md"
   - "Meetups":
+    - "Python C Extensions": "meetups/c-extensions.md"
+    - "Django 201": "meetups/django-201.md"
     - "Streamlit Deep Dive": "meetups/streamlit-deep-dive.md"
     - "Python Project Power-Up": "meetups/python-project-powerup.md"
     - "Getting Started with Django": "meetups/getting-started-with-django.md"
