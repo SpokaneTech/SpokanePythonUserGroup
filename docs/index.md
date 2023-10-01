@@ -28,31 +28,22 @@ hide:
 
 ### Coffee & Code
 
-The **second** Monday of the month at 7 AM
+The first Monday of the month at 7 AM
 
-[Indaba Coffee on Broadway Ave](https://www.indabacoffee.com/broadway){target=_blank}
+[Coeur d'Alene Coffee Co.](https://cdacoffeecompany.com/){target=_blank}
 
 <img src="/img/coffee-and-code.png" width="600" height="337.5">
 
 Grab some coffee and write code, _together_. Note: we are meeting on the **second Monday** of the month due to a holiday on the first Monday in September.
 
-<div class="callout">
-  <p>
-    🚨 We will return to meeting the first Monday of the month in October.
-  </p>
-</div>
+### October meetup
 
-### [Python C Extensions](/docs/meetups/c-extensions.md)
+_October 18, 2023_
 
-_September 19, 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/295678510/){target=_blank} | [:fontawesome-brands-youtube: Stream](https://youtube.com/live/hPjw7UlcDsc?feature=share){target=_blank}
-
-<img src="/img/c-extensions.png" width="600" height="337.5">
-
-In Python, developers have the option of writing subroutines in C and calling those functions directly from Python code. This results in significant speed improvements for computationally intensive tasks. At this month's meetup, we will be going over how we can write, compile, debug, and deploy C extensions for Python applications.
-Join us for our next meetup!
+Topic TBA
 
 ---
 
 ## Previous Meetups
 
-You can find our previous meetups [here](meetups/django-201.md).
+You can find our previous meetups [here](meetups/c-extensions.md).
