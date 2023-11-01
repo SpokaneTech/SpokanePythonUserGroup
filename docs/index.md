@@ -14,6 +14,11 @@ hide:
   #upcoming-meetups {
     margin-top: 0px;
   }
+
+  /* Hide H3s and below */
+  .md-nav__list > .md-nav__item > .md-nav > .md-nav__list > .md-nav__item > .md-nav {
+    display: none;
+  }
 </style>
 
 # Spokane Python User Group
@@ -26,40 +31,26 @@ hide:
 
 ## Upcoming Meetups
 
-### [Python Microframeworks](meetups/python-microframeworks.md)
-
-_November 21st, 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/297078458/){target=_blank} | [:fontawesome-brands-youtube: Stream](https://youtube.com/live/hPjw7UlcDsc?feature=share){target=_blank}
-
-<img src="/img/python-microframeworks.png" width="600" height="337.5">
-
-Microframeworks are a common development tools for spinning up lightweight and minimalistic Python web applications. At this month's tech talk we'll demonstrate how to use these frameworks as a mechanism for building rest APIs that can be consumed by javascript SPAs. We'll also discuss the current landscape of microframeworks in Python, from Flask to FastAPI, touching on each frameworks advantages and use cases.
-
-**Speaker**
-
-[Michael Green](https://michaelgreen.dev/) is a Python developer with Crunch.io, a subsidiary of YouGov. His software development experience includes full-stack web application development, data analysis and visualization, and computational modeling/scientific computing. His previous position was as a research assistant at the University of Missouri-Kansas City, where his work in applying machine learning to nanophotonics has been featured and published in several of the top journals for chemistry, physics, and materials science.
+{%
+  include-markdown "meetups/python-microframeworks.md"
+  heading-offset=2
+  start="<!-- index: start -->"
+  end="<!-- index: end -->"
+%}
 
 ---
 
-### Coffee & Code –⁠ Spokane
-
-The **first** Monday of the month at 7 AM | [Indaba Coffee on Broadway Ave](https://goo.gl/maps/hAfFMFyaRMk)
-
-<img src="/img/coffee-and-code.png" width="600" height="337.5">
-
-Grab some coffee and write code, together. Every **first** Monday of the month, local Pythonistas meet at a coffee shop in the wonderful Spokane, WA to collaborate on code.
+{%
+  include-markdown "coffee/spokane.md"
+  heading-offset=2
+%}
 
 ---
 
-### Coffee & Code –⁠ Coeur d'Alene
-
-The **second** Monday of the month at 7 AM | [Coeur d'Alene Coffee Co.](https://cdacoffeecompany.com/)
-
-<img src="/img/coffee-and-code-cda.png" width="600" height="337.5">
-
-Grab some coffee and write code, together. Every **second** Monday of the month, local Pythonistas meet at a coffee shop in the beautiful CDA, Idaho to collaborate on code.
-
-
----
+{%
+  include-markdown "coffee/cda.md"
+  heading-offset=2
+%}
 
 ## Previous Meetups
 

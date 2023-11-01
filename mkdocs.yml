@@ -10,6 +10,7 @@ plugins:
       cards_layout_options:
         font_family: Rubik
   - search
+  - include-markdown
 
 theme:
   name: material

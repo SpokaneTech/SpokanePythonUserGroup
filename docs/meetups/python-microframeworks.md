@@ -3,7 +3,9 @@ title: "Python Microframeworks"
 description: How to use microframeworks in Python to create lightweight web applications, focusing on building REST APIs for JavaScript SPAs
 ---
 
-# Python Microframeworks
+<!-- index: start -->
+
+# [Python Microframeworks](./python-microframeworks.md)
 
 _November 21st, 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/297078458/){target=_blank} | [:fontawesome-brands-youtube: Stream](https://youtube.com/live/hPjw7UlcDsc?feature=share){target=_blank}
 
@@ -14,6 +16,8 @@ Microframeworks are a common development tools for spinning up lightweight and m
 ## Speaker
 
 [Michael Green](https://michaelgreen.dev/) is a Python developer with Crunch.io, a subsidiary of YouGov. His software development experience includes full-stack web application development, data analysis and visualization, and computational modeling/scientific computing. His previous position was as a research assistant at the University of Missouri-Kansas City, where his work in applying machine learning to nanophotonics has been featured and published in several of the top journals for chemistry, physics, and materials science.
+
+<!-- index: end -->
 
 ## Slides
 
