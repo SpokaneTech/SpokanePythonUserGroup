@@ -5,7 +5,11 @@ hide:
 
 # About _SPUG_
 
-Welcome to the home of the Spokane Python User Group (_SPUG_), Spokane's premiere local Python user group! We have a wide range of topics all related to Python, Web Development, and Open Source technology. We typically meet on the **third Tuesday of each month @ 6pm** for presentations and workshops. We also meet on the **first Monday of each month @ 7am** for coffee and code.
+Welcome to the home of the Spokane Python User Group (_SPUG_), Spokane's premiere local Python user group! We have a wide range of topics all related to Python, Web Development, and Open Source technology. 
+
+We typically meet on the third Tuesday of each month @ 6pm for presentations and workshops.
+
+We also meet on the first Monday of each month @ 7am in Spokane and on the second Monday of each month @ 7 am in Coeur d'Alene for coffee and code.
 
 All meetings are free, and we encourage everyone to participate and get involved and help grow the Python community. We try to base our meetings from attendee suggestions. If you have an idea for a topic that you would like to see (or [present](speak.md) 📢), [please let the organizers know!](https://twitter.com/pythonspokane){target=_blank}
 
