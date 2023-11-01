@@ -67,6 +67,7 @@ markdown_extensions:
 nav:
   - "Home": "index.md"
   - "Meetups":
+    - "Python Microframeworks": "meetups/python-microframeworks.md"
     - "DI, IoC, and You": "meetups/di-ioc-and-you.md"
     - "Python C Extensions": "meetups/c-extensions.md"
     - "Django 201": "meetups/django-201.md"
