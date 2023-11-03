@@ -7,9 +7,11 @@ description: How to use microframeworks in Python to create lightweight web appl
 
 # [Python Microframeworks](./python-microframeworks.md)
 
-_November 21st, 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/297078458/){target=_blank} | [:fontawesome-brands-youtube: Stream](https://youtube.com/live/hPjw7UlcDsc?feature=share){target=_blank}
+_November 14st, 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/297078458/){target=_blank} | [:fontawesome-brands-youtube: Stream](https://youtube.com/live/hPjw7UlcDsc?feature=share){target=_blank}
 
 <img src="/img/python-microframeworks.png" width="600" height="337.5">
+
+**Note: we are meeting on the _second_ Tuesday of the month due to the holidays in the third week of November.**
 
 Microframeworks are a common development tools for spinning up lightweight and minimalistic Python web applications. At this month's tech talk we'll demonstrate how to use these frameworks as a mechanism for building rest APIs that can be consumed by javascript SPAs. We'll also discuss the current landscape of microframeworks in Python, from Flask to FastAPI, touching on each frameworks advantages and use cases.
 
