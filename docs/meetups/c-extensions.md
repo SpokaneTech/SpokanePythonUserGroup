@@ -17,7 +17,7 @@ In Python, developers have the option of writing subroutines in C and calling th
 
 ## Slides
 
-Will be added here after the meetup.
+[Slides :octicons-link-external-16:](https://docs.google.com/presentation/d/1bSIwQ62u8cm-QrtKnHwQ4QUaj9LTTfLFNFAdfr-TGck/edit){target=_blank}
 
 ## Recording
 
