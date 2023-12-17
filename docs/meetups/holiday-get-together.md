@@ -12,3 +12,5 @@ _December 19th, 2023_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.
 <img src="/img/noli.webp" width="600" height="337.5">
 
 Ring in the holiday season by hanging out with your favorite Pythonistas at No-Li Brewhouse! No presentation this month, just good company.
+
+<!-- index: end -->
