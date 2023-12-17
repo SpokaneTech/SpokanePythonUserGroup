@@ -4,4 +4,4 @@ python := if path_exists("./.venv/bin/python3") == "true" { ".venv/bin/python3" 
 
 
 serve:
-    {{ python }} -m mkdocs serve -a 0.0.0.0:9000
+    {{ python }} -m mkdocs serve -a 127.0.0.1:9000
