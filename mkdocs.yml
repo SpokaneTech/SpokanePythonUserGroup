@@ -1,7 +1,7 @@
 site_name: Spokane Python User Group
 site_url: https://spokanepython.com/
 site_description: Home of the Spokane Python User Group
-repo_url: https://github.com/Intellitect-Samples/SpokanePythonUserGroup
+repo_url: https://github.com/SpokaneTech/SpokanePythonUserGroup
 repo_name: SpokanePythonUserGroup
 edit_uri: blob/main/docs/
 
@@ -62,12 +62,13 @@ markdown_extensions:
   - toc:
       permalink: true
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
   - "Home": "index.md"
   - "Meetups":
+    - "Holiday Get Together": "meetups/holiday-get-together.md"
     - "Python Microframeworks": "meetups/python-microframeworks.md"
     - "DI, IoC, and You": "meetups/di-ioc-and-you.md"
     - "Python C Extensions": "meetups/c-extensions.md"

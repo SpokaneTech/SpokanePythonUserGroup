@@ -22,7 +22,7 @@ MicroPython aims to be as compatible with normal Python as possible to allow you
 
 <iframe src="/static/MicroPython-Presentation.pdf" width="560px" height="315px"></iframe>
 
-[Open slides in new tab :octicons-link-external-16:](/static/MicroPython-Presentation.pdf){target=_blank}
+[Open slides in new tab :octicons-link-external-16:](../static/MicroPython-Presentation.pdf){target=_blank}
 
 ## Recording
 
