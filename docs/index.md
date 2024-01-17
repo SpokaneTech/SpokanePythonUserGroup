@@ -32,7 +32,7 @@ hide:
 ## Upcoming Meetups
 
 {%
-  include-markdown "meetups/holiday-get-together.md"
+  include-markdown "meetups/spokane-tech-kick-off.md"
   heading-offset=2
   start="<!-- index: start -->"
   end="<!-- index: end -->"
