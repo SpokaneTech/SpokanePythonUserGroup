@@ -68,6 +68,7 @@ markdown_extensions:
 nav:
   - "Home": "index.md"
   - "Meetups":
+    - "Spokane Tech: Kick Off": "meetups/spokane-tech-kick-off.md"
     - "Holiday Get Together": "meetups/holiday-get-together.md"
     - "Python Microframeworks": "meetups/python-microframeworks.md"
     - "DI, IoC, and You": "meetups/di-ioc-and-you.md"
