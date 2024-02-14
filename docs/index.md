@@ -32,7 +32,7 @@ hide:
 ## Upcoming Meetups
 
 {%
-  include-markdown "meetups/spokane-tech-kick-off.md"
+  include-markdown "meetups/rust-bindings.md"
   heading-offset=2
   start="<!-- index: start -->"
   end="<!-- index: end -->"
@@ -54,4 +54,4 @@ hide:
 
 ## Previous Meetups
 
-You can find our previous meetups [here](meetups/holiday-get-together.md).
+You can find our previous meetups [here](meetups/spokane-tech-kick-off.md).
