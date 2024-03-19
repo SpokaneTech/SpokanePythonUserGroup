@@ -15,7 +15,7 @@ All meetings are free, and we encourage everyone to participate and get involved
 
 Our events are managed on [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/Python-Spokane/){target=_blank}.
 
-[Join our new Discord server! :fontawesome-brands-discord:](https://discord.gg/uhm5PtabEU){target=_blank}.
+[Join the Spokane Tech Discord server! :fontawesome-brands-discord:](https://discord.gg/uhm5PtabEU){target=_blank}.
 
 ## Code of Conduct
 
