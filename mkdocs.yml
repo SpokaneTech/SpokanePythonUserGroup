@@ -68,6 +68,7 @@ markdown_extensions:
 nav:
   - "Home": "index.md"
   - "Meetups":
+    - "Intro to HTMX": "meetups/intro-to-htmx.md"
     - "Intro to Dagger": "meetups/intro-to-dagger.md"
     - "Creating Python Rust bindings using PyO3": "meetups/rust-bindings.md"
     - "Spokane Tech: Kick Off": "meetups/spokane-tech-kick-off.md"
