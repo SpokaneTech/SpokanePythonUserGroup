@@ -32,7 +32,7 @@ hide:
 ## Upcoming Meetups
 
 {%
-  include-markdown "meetups/rust-bindings.md"
+  include-markdown "meetups/intro-to-dagger.md"
   heading-offset=2
   start="<!-- index: start -->"
   end="<!-- index: end -->"
@@ -54,4 +54,4 @@ hide:
 
 ## Previous Meetups
 
-You can find our previous meetups [here](meetups/spokane-tech-kick-off.md).
+You can find our previous meetups [here](meetups/rust-bindings.md).
