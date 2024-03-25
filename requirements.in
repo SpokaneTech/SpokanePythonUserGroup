@@ -1,5 +1,5 @@
 CairoSVG==2.7.1
 mkdocs==1.5.3
 mkdocs-include-markdown-plugin==6.0.4
-mkdocs-material==9.5.14
+mkdocs-material==9.5.15
 Pillow==10.2.0
