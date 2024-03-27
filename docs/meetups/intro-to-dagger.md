@@ -16,3 +16,9 @@ We'll have a presentation on Dagger and using it with the Spokane Tech repo. We 
 Online meeting link: [https://bit.ly/3T2eGk2](https://bit.ly/3T2eGk2){target=_blank}
 
 <!-- index: end -->
+
+## Recording
+
+## Slides
+
+[https://gist.github.com/KGB33/299a607966ab4eb8220bf6ca78e9ef41](https://gist.github.com/KGB33/299a607966ab4eb8220bf6ca78e9ef41)
