@@ -50,7 +50,7 @@ mkdocs==1.5.3
     #   -r requirements.in
     #   mkdocs-include-markdown-plugin
     #   mkdocs-material
-mkdocs-include-markdown-plugin==6.0.4
+mkdocs-include-markdown-plugin==6.0.5
     # via -r requirements.in
 mkdocs-material==9.5.14
     # via -r requirements.in
