@@ -32,7 +32,7 @@ hide:
 ## Upcoming Meetups
 
 {%
-  include-markdown "meetups/intro-to-htmx.md"
+  include-markdown "meetups/between-two-plants.md"
   heading-offset=2
   start="<!-- index: start -->"
   end="<!-- index: end -->"
