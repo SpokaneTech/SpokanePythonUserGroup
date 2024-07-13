@@ -7,9 +7,9 @@ description: Join us for an evening of lightning talks.
 
 # [Lightning Talks II](lightning-talks-2.md)
 
-_Jan 1, 2024_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/298346582/){target=_blank}
+_Jun 18, 2024_ | [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/python-spokane/events/298346582/){target=_blank}
 
-<img src="/img/lightning-talks-2.png" width="600" height="337.5">
+<img src="/img/lightning-talks-2.jpeg" width="600" height="337.5">
 
 Join us for an evening of lightning talks.
 

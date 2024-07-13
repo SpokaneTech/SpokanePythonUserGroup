@@ -32,7 +32,7 @@ hide:
 ## Upcoming Meetups
 
 {%
-  include-markdown "meetups/next-meetup.md"
+  include-markdown "meetups/exploring-django-orm.md"
   heading-offset=2
   start="<!-- index: start -->"
   end="<!-- index: end -->"

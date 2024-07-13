@@ -6,9 +6,9 @@ repo_name: SpokanePythonUserGroup
 edit_uri: blob/main/docs/
 
 plugins:
-  - social:
-      cards_layout_options:
-        font_family: Rubik
+  # - social:
+  #     cards_layout_options:
+  #       font_family: Rubik
   - search
   - include-markdown
 
@@ -68,6 +68,8 @@ markdown_extensions:
 nav:
   - "Home": "index.md"
   - "Meetups":
+    - "Exploring Django's ORM": "meetups/exploring-django-orm.md"
+    - "Lightning Talks II": "meetups/lightning-talks-2.md"
     - "Between Two Plants": "meetups/between-two-plants.md"
     - "Intro to HTMX": "meetups/intro-to-htmx.md"
     - "Intro to Dagger": "meetups/intro-to-dagger.md"
