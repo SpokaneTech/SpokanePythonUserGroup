@@ -6,9 +6,9 @@ repo_name: SpokanePythonUserGroup
 edit_uri: blob/main/docs/
 
 plugins:
-  # - social:
-  #     cards_layout_options:
-  #       font_family: Rubik
+  - social:
+      cards_layout_options:
+        font_family: Rubik
   - search
   - include-markdown
 
