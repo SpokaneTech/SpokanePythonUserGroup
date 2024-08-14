@@ -68,6 +68,7 @@ markdown_extensions:
 nav:
   - "Home": "index.md"
   - "Meetups":
+    - "f(s): Svelte": "meetups/svelte.md"
     - "Exploring Django's ORM": "meetups/exploring-django-orm.md"
     - "Lightning Talks II": "meetups/lightning-talks-2.md"
     - "Between Two Plants": "meetups/between-two-plants.md"
