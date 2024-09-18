@@ -32,7 +32,7 @@ hide:
 ## Upcoming Meetups
 
 {%
-  include-markdown "meetups/svelte.md"
+  include-markdown "meetups/dep-0014.md"
   heading-offset=2
   start="<!-- index: start -->"
   end="<!-- index: end -->"
