@@ -93,7 +93,7 @@ tinycss2==1.2.1
     # via
     #   cairosvg
     #   cssselect2
-urllib3==2.0.7
+urllib3==2.2.2
     # via requests
 watchdog==3.0.0
     # via mkdocs
