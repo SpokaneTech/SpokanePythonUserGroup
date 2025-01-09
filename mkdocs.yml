@@ -68,6 +68,7 @@ markdown_extensions:
 nav:
   - "Home": "index.md"
   - "Meetups":
+    - "Show and Tell": "meetups/2025-01-22.md"
     - "2024 holiday Hangout": "meetups/2024-12-17.md"
     - "Building a CLI": "meetups/cli.md"
     - "Django Background Workers": "meetups/dep-0014.md"

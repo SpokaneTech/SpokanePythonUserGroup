@@ -32,7 +32,7 @@ hide:
 ## Upcoming Meetups
 
 {%
-  include-markdown "meetups/2024-12-17.md"
+  include-markdown "meetups/2025-01-22.md"
   heading-offset=2
   start="<!-- index: start -->"
   end="<!-- index: end -->"
