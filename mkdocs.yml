@@ -115,5 +115,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/python-spokane/
   analytics:
-    provider: custom
-    property: "spokanepython.com"
+    # provider: custom
+    # property: "spokanepython.com"
+    provider: google
+    property: G-X6VK8H1VLF
