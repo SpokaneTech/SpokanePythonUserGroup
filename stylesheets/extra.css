@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "Rotundo";
+  src:
+    url("/static/Rotundo-Regular.woff2") format('woff2'),
+    url("/static/Rotundo-Regular.woff") format('woff'),
+    url("/static/Rotundo-Regular.ttf") format('truetype'),
+    url("/static/Rotundo-Regular.otf") format('opentype');
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    --md-default-bg-color: #f6f7f8;
+    background-color: var(--md-default-bg-color);
+}
+
+h1,
+.md-header {
+  font-family: "Rotundo";
+}
+
+h3 {
+    font-weight: bold !important;
+}
+
+article img, article iframe {
+    border-radius: 4px;
+}
+
+ul li {
+    margin-bottom: 0px !important;
+}
+
+.twemoji {
+    color: #3ec930;
+}
+
+.discord {
+    color: #7289da !important;
+}
+
+.callout {
+    display: inline-block;
+    border-radius: 8px;
+    background-color: white;
+    padding: 1rem;
+
+    -webkit-box-shadow: 0 0 4px 0 rgba(46,62,72,.12),0 4px 12px 0 rgba(46,62,72,.12);
+    box-shadow: 0 0 4px 0 rgba(46,62,72,.12),0 4px 12px 0 rgba(46,62,72,.12);
+    -webkit-transform: translateY(-1px);
+    transform: translateY(-1px);
+}
+
+body[data-md-color-scheme="slate"] .callout {
+    background-color: #1e1f21;
+}
+
+.callout p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.callout p + p {
+    margin-top: 8px;
+}
