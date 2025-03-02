@@ -68,6 +68,7 @@ markdown_extensions:
 nav:
   - "Home": "index.md"
   - "Meetups":
+    - "Join Us for a Special Python & Rust Meetup!": "meetups/2025-03-18.md"
     - "Show and Tell": "meetups/2025-01-22.md"
     - "2024 holiday Hangout": "meetups/2024-12-17.md"
     - "Building a CLI": "meetups/cli.md"
