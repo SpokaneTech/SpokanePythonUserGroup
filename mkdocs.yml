@@ -68,6 +68,7 @@ markdown_extensions:
 nav:
   - "Home": "index.md"
   - "Meetups":
+    - "Join Spokane DevOps Meetup This Month!": "meetups/2025-06-19.md"
     - "From Data to Dream Home: A Data Scientist's Workflow in Python": "meetups/2025-05-20.md"
     - "Project Show and Tell": "meetups/2025-04-23.md"
     - "Join Us for a Special Python & Rust Meetup!": "meetups/2025-03-18.md"
